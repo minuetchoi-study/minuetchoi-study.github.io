@@ -247,7 +247,7 @@ $(document).ready(function () {
         if ($('#playModeBtn').hasClass('youtube')) {
             return;
         }
-        $('#allListen').html('∀');
+        $('#allListen').html('<img src="/public/icon/sorting-order-button.png" alt="" width="20" height="20" style="text-decoration: none;">');
         $('#allListen').removeClass('btn--danger');
         $('#allListen').addClass('btn--inverse');
 
@@ -261,7 +261,7 @@ $(document).ready(function () {
                 audio[i].pause();
             }
             if ($(this).hasClass('btn--inverse')) {
-                $(this).html('‖');
+                $(this).html('<img src="/public/icon/stop-button.png" alt="" width="20" height="20" style="text-decoration: none;">');
                 $(this).removeClass('btn--inverse');
                 $(this).addClass('btn--warning');
 
@@ -277,7 +277,7 @@ $(document).ready(function () {
                 map.endTimestamp = endTimestamp;
                 $('a[id*=play-pause-button]').eq(no).trigger('click', map);
             } else {
-                $(this).html('∞');
+                $(this).html('<img src="/public/icon/repeat-button.png" alt="" width="20" height="20" style="text-decoration: none;">');
                 $(this).removeClass('btn--warning');
                 $(this).addClass('btn--inverse');
             }
@@ -289,7 +289,7 @@ $(document).ready(function () {
         if ($('#playModeBtn').hasClass('youtube')) {
             return;
         }
-        $('#infListen').html('∞');
+        $('#infListen').html('<img src="/public/icon/repeat-button.png" alt="" width="20" height="20" style="text-decoration: none;">');
         $('#infListen').removeClass('btn--warning');
         $('#infListen').addClass('btn--inverse');
 
@@ -303,7 +303,7 @@ $(document).ready(function () {
                 audio[i].pause();
             }
             if ($(this).hasClass('btn--inverse')) {
-                $(this).html('‖');
+                $(this).html('<img src="/public/icon/stop-button.png" alt="" width="20" height="20" style="text-decoration: none;">');
                 $(this).removeClass('btn--inverse');
                 $(this).addClass('btn--danger');
 
@@ -312,25 +312,10 @@ $(document).ready(function () {
                 map.type = 'allListen';
                 $('a[id*=play-pause-button]').eq(0).trigger('click', map);
             } else {
-                $(this).html('∀');
+                $(this).html('<img src="/public/icon/sorting-order-button.png" alt="" width="20" height="20" style="text-decoration: none;">');
                 $(this).removeClass('btn--danger');
                 $(this).addClass('btn--inverse');
             }
-        }
-    });
-
-    $('#vocabularyBtn').click(function (e) {
-        e.preventDefault();
-        if ($(this).hasClass('open')) {
-            $(this).html('단어장 닫힘');
-            $(this).removeClass('open');
-            $(this).addClass('close');
-            $('#vocabulary').show();
-        } else {
-            $(this).html('단어장 열람');
-            $(this).removeClass('close');
-            $(this).addClass('open');
-            $('#vocabulary').hide();
         }
     });
 
@@ -377,10 +362,10 @@ $(document).ready(function () {
                 audio[i].pause();
             }
         }
-        $('#infListen').html('∞');
+        $('#infListen').html('<img src="/public/icon/repeat-button.png" alt="" width="20" height="20" style="text-decoration: none;">');
         $('#infListen').removeClass('btn--warning');
         $('#infListen').addClass('btn--inverse');
-        $('#allListen').html('∀');
+        $('#allListen').html('<img src="/public/icon/sorting-order-button.png" alt="" width="20" height="20" style="text-decoration: none;">');
         $('#allListen').removeClass('btn--danger');
         $('#allListen').addClass('btn--inverse');
         var offset = $('article').offset();
