@@ -117,11 +117,11 @@ $(document).ready(function () {
             }
             no = Number(no);
             if (type === '') {
-                $('#allListen').html('∀');
+                $('#allListen').html('<img src="/public/icon/sorting-order-button.png" alt="" width="20" height="20" style="text-decoration: none;">');
                 $('#allListen').removeClass('btn--danger');
                 $('#allListen').addClass('btn--inverse');
 
-                $('#infListen').html('∞');
+                $('#infListen').html('<img src="/public/icon/repeat-button.png" alt="" width="20" height="20" style="text-decoration: none;">');
                 $('#infListen').removeClass('btn--warning');
                 $('#infListen').addClass('btn--inverse');
             }
@@ -203,7 +203,7 @@ $(document).ready(function () {
                             map.type = 'allListen';
                             $('a[id*=play-pause-button]').eq(map.no).trigger('click', map);
                         } else {
-                            $('#allListen').html('∀');
+                            $('#allListen').html('<img src="/public/icon/sorting-order-button.png" alt="" width="20" height="20" style="text-decoration: none;">');
                             $('#allListen').removeClass('btn--danger');
                             $('#allListen').addClass('btn--inverse');
                             var offset = $('.page__content').offset();
@@ -219,7 +219,7 @@ $(document).ready(function () {
                             map.endTimestamp = endTimestamp;
                             $('a[id*=play-pause-button]').eq(map.no).trigger('click', map);
                         } else {
-                            $('#infListen').html('∞');
+                            $('#infListen').html('<img src="/public/icon/repeat-button.png" alt="" width="20" height="20" style="text-decoration: none;">');
                             $('#infListen').removeClass('btn--warning');
                             $('#infListen').addClass('btn--inverse');
                             var offset = $('.page__content').offset();
