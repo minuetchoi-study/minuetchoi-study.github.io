@@ -145,40 +145,48 @@ $(document).ready(function () {
                 $(this).removeClass('fa-play');
                 $(this).addClass('fa-pause');
                 var trId = $(this).closest('tr').prop('id');
-                $('tr[id*=' + trId +']').css('background-color', '#ebf5f8');
+                $('tr[id*=' + trId +']').css('background-color', '#fde1b4');
                 if (type !== '') {
                     var offset = $(this).offset();
-                    $('html, body').animate({scrollTop : offset.top - 100}, 400);
-                }
-                setTimeout(function () {
-                    var reTitle = '';
-                    $('tr[id*=' + trId +']').find('td:eq(1)').each(function (index, element) {
-                        if (index !== 0) {
-                            reTitle += '<br />';
-                        }
-                        reTitle += $(element).html();
-                    });
-                    var magnificTitl = {};
-                    magnificTitl.src = '<div class="white-popup">' + reTitle +'<button title="Close (Esc)" type="button" class="mfp-close">×</button></div>';
-                    magnificTitl.type = 'inline';
-                    $('#dummy_popup').magnificPopup({
-                        items: magnificTitl,
-                        closeBtnInside: false,
-                        preloader: true,
-                        removalDelay: 160,
-                        mainClass: 'mfp-fade',
-                        callbacks: {
-                            open: function() {
-                                $('.mfp-content').find('abbr[title]').click(function() {
-                                    $(this).hasClass("on") ? $(this).removeClass("on") : $(this).addClass("on");
+                    $('html, body').animate({scrollTop : offset.top - 100}, 400, function () {
+                        if ($('#guidePopup').find('img').attr('src') == '/public/icon/open-popup-button.png') {
+                            setTimeout(function () {
+                                var reTitle = '';
+                                $('tr[id*=' + trId +']').find('td:eq(1)').each(function (index, element) {
+                                    if (index !== 0) {
+                                        reTitle += '<br />';
+                                    }
+                                    reTitle += $(element).html();
                                 });
-                            }
+                                var magnificTitl = {};
+                                magnificTitl.src = '<div class="white-popup">' + reTitle +'<button title="Close (Esc)" type="button" class="mfp-close">×</button></div>';
+                                magnificTitl.type = 'inline';
+                                $('#dummy_popup').magnificPopup({
+                                    items: magnificTitl,
+                                    closeBtnInside: false,
+                                    preloader: true,
+                                    removalDelay: 160,
+                                    mainClass: 'mfp-fade',
+                                    callbacks: {
+                                        open: function() {
+                                            $('.mfp-content').find('abbr[title]').click(function() {
+                                                $(this).hasClass("on") ? $(this).removeClass("on") : $(this).addClass("on");
+                                            });
+                                        }
+                                    }
+                                });
+                                $('#dummy_popup').trigger('click');
+                                audio[no].playbackRate = $('#playbackspeed').val();
+                                audio[no].play();
+                            }, 400);
+                        } else {
+                            setTimeout(function () {
+                                audio[no].playbackRate = $('#playbackspeed').val();
+                                audio[no].play();
+                            }, 400);
                         }
                     });
-                    $('#dummy_popup').trigger('click');
-                    audio[no].playbackRate = $('#playbackspeed').val();
-                    audio[no].play();
-                }, 600);
+                }
             } else {
                 $(this).removeClass('fa-pause');
                 $(this).addClass('fa-play');
@@ -371,6 +379,15 @@ $(document).ready(function () {
         $('#allListen').addClass('btn--inverse');
         var offset = $('article').offset();
         $('html, body').animate({scrollTop : offset.top}, 400);
+    });
+
+    $('#guidePopup').click(function (e) {
+        e.preventDefault();
+        if ($(this).find('img').attr('src') == '/public/icon/open-popup-button.png') {
+            $(this).find('img').prop('src', '/public/icon/close-popup-button.png');
+        } else {
+            $(this).find('img').prop('src', '/public/icon/open-popup-button.png');
+        }
     });
 });
 
