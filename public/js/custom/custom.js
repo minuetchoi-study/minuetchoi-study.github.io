@@ -187,6 +187,42 @@ $(document).ready(function () {
                         }
                     });
                 }
+                if ($('#guidePopup').find('img').attr('src') == '/public/icon/open-popup-button.png') {
+                    setTimeout(function () {
+                        var reTitle = '';
+                        $('tr[id*=' + trId +']').find('td:eq(1)').each(function (index, element) {
+                            if (index !== 0) {
+                                reTitle += '<br />';
+                            }
+                            reTitle += $(element).html();
+                        });
+                        var magnificTitl = {};
+                        magnificTitl.src = '<div class="white-popup">' + reTitle +'<button title="Close (Esc)" type="button" class="mfp-close">×</button></div>';
+                        magnificTitl.type = 'inline';
+                        $('#dummy_popup').magnificPopup({
+                            items: magnificTitl,
+                            closeBtnInside: false,
+                            preloader: true,
+                            removalDelay: 160,
+                            mainClass: 'mfp-fade',
+                            callbacks: {
+                                open: function() {
+                                    $('.mfp-content').find('abbr[title]').click(function() {
+                                        $(this).hasClass("on") ? $(this).removeClass("on") : $(this).addClass("on");
+                                    });
+                                }
+                            }
+                        });
+                        $('#dummy_popup').trigger('click');
+                        audio[no].playbackRate = $('#playbackspeed').val();
+                        audio[no].play();
+                    }, 400);
+                } else {
+                    setTimeout(function () {
+                        audio[no].playbackRate = $('#playbackspeed').val();
+                        audio[no].play();
+                    }, 400);
+                }
             } else {
                 $(this).removeClass('fa-pause');
                 $(this).addClass('fa-play');
@@ -201,7 +237,7 @@ $(document).ready(function () {
                 $('a[id*=play-pause-button]').addClass('fa-play');
                 var trId = $('a[id*=play-pause-button]').eq(no).closest('tr').prop('id');
                 $('tr[id*=' + trId +']').css('background-color', '');
-                $('.mfp-close').trigger('click');
+                //$('.mfp-close').trigger('click');
                 var map = {};
                 if (ringsToPlay === 0) {
                     repeat = 0;
