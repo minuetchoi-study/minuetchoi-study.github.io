@@ -237,7 +237,9 @@ $(document).ready(function () {
                 $('a[id*=play-pause-button]').addClass('fa-play');
                 var trId = $('a[id*=play-pause-button]').eq(no).closest('tr').prop('id');
                 $('tr[id*=' + trId +']').css('background-color', '');
-                //$('.mfp-close').trigger('click');
+                if ($('#guidePopup').find('img').attr('src') == '/public/icon/open-popup-button.png') {
+                    $('.mfp-close').trigger('click');
+                }
                 var map = {};
                 if (ringsToPlay === 0) {
                     repeat = 0;
