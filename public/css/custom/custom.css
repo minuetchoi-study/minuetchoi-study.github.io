@@ -242,7 +242,7 @@ abbr[title].on {
   }
   .card:nth-child(1) {
     --c: #05131f;
-    --nlist: #a9e2ff, #13a7fc;
+    --nlist: #ffffff, #828282;
   }
   .card:nth-child(2) {
     --c: #5d6f80;
