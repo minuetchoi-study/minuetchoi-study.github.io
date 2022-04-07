@@ -355,10 +355,13 @@ abbr[title].on {
   }
   .bottom-bar1 {
     flex: 1;
+    text-align: center;
   }
   .bottom-bar2 {
     flex: 6;
+    text-align: center;
   }
   .bottom-bar3 {
     flex: 1;
+    text-align: center;
   }
