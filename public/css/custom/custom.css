@@ -136,8 +136,47 @@ abbr[title].on {
     left: 0;
     padding: 0.7em;
     border-radius: 10px 0;
-    background: #fde1b4;
+    background: #ffdce0;
     box-shadow: rgba(0, 0, 0, 0.2) 1px 2px 4px 0;
+  }
+
+
+
+  @media (max-width: 99em) {
+    body {
+      --n: 6 ;
+    }
+  }
+  @media (max-width: 85em) {
+    body {
+      --n: 5 ;
+    }
+  }
+  @media (max-width: 71em) {
+    body {
+      --n: 4 ;
+    }
+  }
+  @media (max-width: 57em) {
+    body {
+      --n: 3 ;
+    }
+  }
+  @media (max-width: 43em) {
+    body {
+      --n: 2 ;
+    }
+  }
+  @media (max-width: 29em) {
+    body {
+      --n: 1 ;
+    }
+  }
+  @media (max-width: 15em) {
+    body {
+      --w: 100%;
+      --h: 146.1538461538vw;
+    }
   }
 
 
@@ -155,13 +194,7 @@ abbr[title].on {
     width: 100%;
     text-align: center;
   }
-  .inner {
-    background:#fde1b4;
-    width: 100%;
-    display: inline-block;
-    border-top-right-radius: 10px;
-    border-top-left-radius: 10px;
-  }
+
   .white-popup {
     position: relative;
     background: #FFF;
@@ -181,4 +214,147 @@ abbr[title].on {
     text-decoration: none;
     border-width: 0;
     cursor: pointer;
+  }
+
+  .card {
+    --rlist: var(--c) 0 3px, transparent 0 7px;
+    --dim: 100% 0% no-repeat;
+    --ang: 0deg;
+    overflow: hidden;
+    position: relative;
+    height: var(--h);
+    border-radius: 7px;
+    box-shadow: 2px 2px 17px #000;
+    background: repeating-linear-gradient(var(--ang-0, -45deg), var(--rlist)) var(--pos-0, 0 0)/var(--dim), repeating-linear-gradient(var(--ang-1, 45deg), var(--rlist)) var(--pos-1, 0 100%)/var(--dim), linear-gradient(var(--ang), var(--nlist));
+    width: 100%;
+  }
+  .card:nth-child(4n+2) {
+    --ang-0: 45deg;
+    --ang-1: 135deg;
+  }
+  .card:nth-child(4n+3) {
+    --ang-0: -60deg;
+    --ang-1: 60deg;
+  }
+  .card:nth-child(4n) {
+    --ang-0: -120deg;
+    --ang-1: 120deg;
+  }
+  .card:nth-child(1) {
+    --c: #05131f;
+    --nlist: #a9e2ff, #13a7fc;
+  }
+  .card:nth-child(2) {
+    --c: #5d6f80;
+    --nlist: #768896, #cbd4d6;
+  }
+  .card:nth-child(3) {
+    --c: #fe3a01;
+    --nlist: #fe3502, #efd25d;
+  }
+  .card:nth-child(4) {
+    --c: #14282d;
+    --nlist: #81b7c9, #26353c;
+  }
+  .card:nth-child(5) {
+    --c: #0e685e;
+    --nlist: #77dddd, #1e766a;
+  }
+  .card:nth-child(6) {
+    --c: #dd7519;
+    --nlist: #e68323, #fcdf85;
+  }
+  .card:nth-child(7) {
+    --c: #034077;
+    --nlist: #013579, #3fdbe5;
+  }
+  .card:nth-child(8) {
+    --c: #3ea814;
+    --nlist: #e8f4c6, #3bb720;
+  }
+  .card:nth-child(9) {
+    --c: #b63e03;
+    --nlist: #ebd346, #c2400c;
+  }
+  .card:nth-child(10) {
+    --c: #010e05;
+    --nlist: #051e18, #186d56;
+  }
+  .card:nth-child(11) {
+    --c: #093658;
+    --nlist: #193961, #72cadd;
+  }
+  .card:nth-child(12) {
+    --c: #011422;
+    --nlist: #027899, #05262d;
+  }
+  .card:nth-child(13) {
+    --c: #e0aa0a;
+    --nlist: #fcef34, #dead1f;
+  }
+  .card:nth-child(14) {
+    --c: #13507e;
+    --nlist: #235790, #7fc8d3;
+  }
+  .card:nth-child(15) {
+    --c: #326f12;
+    --nlist: #397d28, #cce296;
+  }
+  .card:nth-child(16) {
+    --c: #4486b0;
+    --nlist: #d4eef7, #3b8cbc;
+  }
+  .card:nth-child(17) {
+    --c: #4d3628;
+    --nlist: #dac7b0, #513831;
+  }
+  .card:nth-child(18) {
+    --c: #ed1d00;
+    --nlist: #ef2902, #f6940a;
+  }
+  .card:nth-child(19) {
+    --c: #c71b01;
+    --nlist: #cd1700, #f76705;
+  }
+  .card:nth-child(20) {
+    --c: #2e354c;
+    --nlist: #adc0e0, #303548;
+  }
+  .card:nth-child(21) {
+    --c: #88b70f;
+    --nlist: #e2eb81, #9cc323;
+  }
+  .card:nth-child(22) {
+    --c: #243eb1;
+    --nlist: #3046bb, #a4c9e6;
+  }
+  .card:nth-child(23) {
+    --c: #990741;
+    --nlist: #a6103c, #f246d6;
+  }
+  .card:nth-child(24) {
+    --c: #456400;
+    --nlist: #d2e001, #3a6202;
+  }
+  .card:nth-child(25) {
+    --c: #bf5734;
+    --nlist: #ecd7bc, #c95c3a;
+  }
+  .card:nth-child(26) {
+    --c: #228f8a;
+    --nlist: #2b9c96, #90e1e2;
+  }
+  .card:nth-child(27) {
+    --c: #49130c;
+    --nlist: #de8068, #55221a;
+  }
+  .card:nth-child(28) {
+    --c: #32453f;
+    --nlist: #b9dcce, #333e3a;
+  }
+  
+  .v {
+    --dim: 50% no-repeat;
+    --ang: 0deg;
+    --pos-1: 100%;
   }
