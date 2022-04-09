@@ -9,6 +9,6 @@ permalink: /ghi chú/
 - giờ -> 여
 - có thể -> ó thể
 - đặt -> 닥
-- vừa -> 여으어, 내가 듣기론 '리어'와 '지어' 사이?
+- vừa -> 여으어, <mark style="background-color: #ffdce0">내가 듣기론 '리어'와 '지어' 사이?</mark>
 - rồi -> 로이
 - không -> 홍
