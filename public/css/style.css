@@ -365,20 +365,3 @@ footer {
 		display: none;
 	}
 }
-
-code.highlighter-rouge {
-    position: relative;
-    margin-bottom: 1em;
-    background: #ffd23f;
-    color: rgb(0, 0, 0);
-    font-family: Monaco, Consolas, "Lucida Console", monospace;
-    font-size: 1.25em;
-    line-height: 1.8;
-    border-radius: 4px
-}
-
-code.highlighter-rouge>pre,
-code.highlighter-rouge pre.highlight {
-    margin: 0;
-    padding: 1em
-}
