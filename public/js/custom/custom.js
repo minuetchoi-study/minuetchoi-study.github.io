@@ -1,3 +1,6 @@
+window.addEventListener('load', function () {
+    setTimeout(scrollTo, 0, 0, 1);
+}, false);
 $(document).ready(function () {
 
     // 영상 strt
@@ -29,23 +32,23 @@ $(document).ready(function () {
     }
     // --영상 end
 
-closeNav()
+    closeNav()
     // 북마크 strt
     $('.bookmark').magnificPopup({
-        type:'iframe',
+        type: 'iframe',
         iframe: {
             markup: '<meta name="viewport" content="width=device-width; initial-scale=1.0, user-scalable=no">' +
-                    '<style>.mfp-iframe-holder .mfp-content {max-width: 100%;height:100%}</style>'+
-                    '<div class="mfp-iframe-scaler" >'+
-                    '<div class="mfp-close"></div>'+
-                    '<iframe class="mfp-iframe" frameborder="0" allowfullscreen></iframe>'+
-                    '</div></div>' +
-                    '<script>closeNav()</script>'
+                '<style>.mfp-iframe-holder .mfp-content {max-width: 100%;height:100%}</style>' +
+                '<div class="mfp-iframe-scaler" >' +
+                '<div class="mfp-close"></div>' +
+                '<iframe class="mfp-iframe" frameborder="0" allowfullscreen></iframe>' +
+                '</div></div>' +
+                '<script>closeNav()</script>'
         }
     });
     // --북마크 end
 
-    $("abbr[title]").click(function() {
+    $("abbr[title]").click(function () {
         $(this).hasClass("on") ? $(this).removeClass("on") : $(this).addClass("on");
     });
 
@@ -61,7 +64,7 @@ closeNav()
     var q = 0;
     var tocMenu = [];
 
-    $('a img').css('textDecoration','none')
+    $('a img').css('textDecoration', 'none')
     $('#footer').hide();
     $('#vocabulary').hide();
 
@@ -72,8 +75,8 @@ closeNav()
         var title = $.trim($(element).find('td:eq(1)').html());
         if (/\d+/.test(textTd)) {
             $(element).empty();
-            $(element).append('<td style="padding: 0px; background-color: #ee5f5b;" id=-' + textTd +'></td>');
-            $(element).append('<td colspan="2" style="background-color: #fffef3"><i>' + title +'</i></td>');
+            $(element).append('<td style="padding: 0px; background-color: #ee5f5b;" id=-' + textTd + '></td>');
+            $(element).append('<td colspan="2" style="background-color: #fffef3"><i>' + title + '</i></td>');
 
             tocMenu.push('<li><a href="#-' + textTd + '">' + title + '</a></li>');
             q++;
@@ -89,10 +92,10 @@ closeNav()
                     q++;
                 }
                 num = q.toString().lpad(5, 0);
-                $(element).prop('id', 'tr'+ num);
+                $(element).prop('id', 'tr' + num);
             } else {
                 num = q.toString().lpad(5, 0);
-                $(element).prop('id', 'tr'+ num + '-' + index);
+                $(element).prop('id', 'tr' + num + '-' + index);
             }
         }
     });
@@ -137,30 +140,30 @@ closeNav()
                     $('a[id*=play-pause-button]').eq(i).removeClass('fa-pause');
                     $('a[id*=play-pause-button]').eq(i).addClass('fa-play');
                     var trId = $('a[id*=play-pause-button]').eq(i).closest('tr').prop('id');
-                    $('tr[id*=' + trId +']').css('background-color', '');
+                    $('tr[id*=' + trId + ']').css('background-color', '');
                     audio[i].currentTime = 0;
                     audio[i].pause();
                 }
             }
-            if($(this).hasClass('fa-play')) {
+            if ($(this).hasClass('fa-play')) {
                 $(this).removeClass('fa-play');
                 $(this).addClass('fa-pause');
                 var trId = $(this).closest('tr').prop('id');
-                $('tr[id*=' + trId +']').css('background-color', '#fde1b4');
+                $('tr[id*=' + trId + ']').css('background-color', '#fde1b4');
                 if (type !== '') {
                     var offset = $(this).offset();
-                    $('html, body').animate({scrollTop : offset.top - 100}, 400, function () {
+                    $('html, body').animate({ scrollTop: offset.top - 100 }, 400, function () {
                         if ($('#guidePopup').find('img').attr('src') == '/public/icon/open-popup-button.png') {
                             setTimeout(function () {
                                 var reTitle = '';
-                                $('tr[id*=' + trId +']').find('td:eq(1)').each(function (index, element) {
+                                $('tr[id*=' + trId + ']').find('td:eq(1)').each(function (index, element) {
                                     if (index !== 0) {
                                         reTitle += '<br />';
                                     }
                                     reTitle += $(element).html();
                                 });
                                 var magnificTitl = {};
-                                magnificTitl.src = '<div class="white-popup">' + reTitle +'<button title="Close (Esc)" type="button" class="mfp-close">×</button></div>';
+                                magnificTitl.src = '<div class="white-popup">' + reTitle + '<button title="Close (Esc)" type="button" class="mfp-close">×</button></div>';
                                 magnificTitl.type = 'inline';
                                 $('#dummy_popup').magnificPopup({
                                     items: magnificTitl,
@@ -169,8 +172,8 @@ closeNav()
                                     removalDelay: 160,
                                     mainClass: 'mfp-fade',
                                     callbacks: {
-                                        open: function() {
-                                            $('.mfp-content').find('abbr[title]').click(function() {
+                                        open: function () {
+                                            $('.mfp-content').find('abbr[title]').click(function () {
                                                 $(this).hasClass("on") ? $(this).removeClass("on") : $(this).addClass("on");
                                             });
                                         }
@@ -191,14 +194,14 @@ closeNav()
                 if ($('#guidePopup').find('img').attr('src') == '/public/icon/open-popup-button.png') {
                     setTimeout(function () {
                         var reTitle = '';
-                        $('tr[id*=' + trId +']').find('td:eq(1)').each(function (index, element) {
+                        $('tr[id*=' + trId + ']').find('td:eq(1)').each(function (index, element) {
                             if (index !== 0) {
                                 reTitle += '<br />';
                             }
                             reTitle += $(element).html();
                         });
                         var magnificTitl = {};
-                        magnificTitl.src = '<div class="white-popup">' + reTitle +'<button title="Close (Esc)" type="button" class="mfp-close">×</button></div>';
+                        magnificTitl.src = '<div class="white-popup">' + reTitle + '<button title="Close (Esc)" type="button" class="mfp-close">×</button></div>';
                         magnificTitl.type = 'inline';
                         $('#dummy_popup').magnificPopup({
                             items: magnificTitl,
@@ -207,8 +210,8 @@ closeNav()
                             removalDelay: 160,
                             mainClass: 'mfp-fade',
                             callbacks: {
-                                open: function() {
-                                    $('.mfp-content').find('abbr[title]').click(function() {
+                                open: function () {
+                                    $('.mfp-content').find('abbr[title]').click(function () {
                                         $(this).hasClass("on") ? $(this).removeClass("on") : $(this).addClass("on");
                                     });
                                 }
@@ -228,16 +231,16 @@ closeNav()
                 $(this).removeClass('fa-pause');
                 $(this).addClass('fa-play');
                 var trId = $(this).closest('tr').prop('id');
-                $('tr[id*=' + trId +']').css('background-color', '');
+                $('tr[id*=' + trId + ']').css('background-color', '');
                 $('.mfp-close').trigger('click');
                 audio[no].currentTime = 0;
                 audio[no].pause();
             }
-            audio[no].onended = function() {
+            audio[no].onended = function () {
                 $('a[id*=play-pause-button]').removeClass('fa-pause');
                 $('a[id*=play-pause-button]').addClass('fa-play');
                 var trId = $('a[id*=play-pause-button]').eq(no).closest('tr').prop('id');
-                $('tr[id*=' + trId +']').css('background-color', '');
+                $('tr[id*=' + trId + ']').css('background-color', '');
                 if ($('#guidePopup').find('img').attr('src') == '/public/icon/open-popup-button.png') {
                     $('.mfp-close').trigger('click');
                 }
@@ -255,7 +258,7 @@ closeNav()
                             $('#allListen').removeClass('btn--danger');
                             $('#allListen').addClass('btn--inverse');
                             var offset = $('.page__content').offset();
-                            $('html, body').animate({scrollTop : offset.top}, 400);
+                            $('html, body').animate({ scrollTop: offset.top }, 400);
                         }
                     } else if (type === 'infListen') {
                         var date = new Date();
@@ -271,7 +274,7 @@ closeNav()
                             $('#infListen').removeClass('btn--warning');
                             $('#infListen').addClass('btn--inverse');
                             var offset = $('.page__content').offset();
-                            $('html, body').animate({scrollTop : offset.top}, 400);
+                            $('html, body').animate({ scrollTop: offset.top }, 400);
                         }
                     }
                 } else {
@@ -301,7 +304,7 @@ closeNav()
                 $('a[id*=play-pause-button]').eq(i).removeClass('fa-pause');
                 $('a[id*=play-pause-button]').eq(i).addClass('fa-play');
                 var trId = $('a[id*=play-pause-button]').eq(i).closest('tr').prop('id');
-                $('tr[id*=' + trId +']').css('background-color', '');
+                $('tr[id*=' + trId + ']').css('background-color', '');
                 audio[i].currentTime = 0;
                 audio[i].pause();
             }
@@ -340,7 +343,7 @@ closeNav()
                 $('a[id*=play-pause-button]').eq(i).removeClass('fa-pause');
                 $('a[id*=play-pause-button]').eq(i).addClass('fa-play');
                 var trId = $('a[id*=play-pause-button]').eq(i).closest('tr').prop('id');
-                $('tr[id*=' + trId +']').css('background-color', '');
+                $('tr[id*=' + trId + ']').css('background-color', '');
                 audio[i].currentTime = 0;
                 audio[i].pause();
             }
@@ -365,7 +368,7 @@ closeNav()
         $(element).click(function (e) {
             e.preventDefault();
             var offset = $('.responsive-video-container').offset();
-            $('html, body').animate({scrollTop : offset.top}, 400);
+            $('html, body').animate({ scrollTop: offset.top }, 400);
             var videoSeq = $(element).find('img').prop('alt');
             $('.responsive-video-container').find('iframe').prop('src', youtubeEmbedUrl + videoSeq + '?autoplay=1');
         });
@@ -380,7 +383,7 @@ closeNav()
                 $('a[id*=play-pause-button]').eq(i).removeClass('fa-pause');
                 $('a[id*=play-pause-button]').eq(i).addClass('fa-play');
                 var trId = $('a[id*=play-pause-button]').eq(i).closest('tr').prop('id');
-                $('tr[id*=' + trId +']').css('background-color', '');
+                $('tr[id*=' + trId + ']').css('background-color', '');
 
                 audio[i].currentTime = 0;
                 audio[i].pause();
@@ -393,7 +396,7 @@ closeNav()
         $('#allListen').removeClass('btn--danger');
         $('#allListen').addClass('btn--inverse');
         var offset = $('article').offset();
-        $('html, body').animate({scrollTop : offset.top}, 400);
+        $('html, body').animate({ scrollTop: offset.top }, 400);
     });
 
     $('#guidePopup').click(function (e) {
@@ -441,7 +444,7 @@ function closeNav() {
  *  - padLen : 최대 채우고자 하는 길이
  *  - padStr : 채우고자하는 문자(char)
  */
- String.prototype.lpad = function(padLen, padStr) {
+String.prototype.lpad = function (padLen, padStr) {
     var str = this;
     if (padStr.length > padLen) {
         return str + '';
@@ -459,7 +462,7 @@ function closeNav() {
  *  - padLen : 최대 채우고자 하는 길이
  *  - padStr : 채우고자하는 문자(char)
  */
-String.prototype.rpad = function(padLen, padStr) {
+String.prototype.rpad = function (padLen, padStr) {
     var str = this;
     if (padStr.length > padLen) {
         return str + '';
@@ -472,7 +475,7 @@ String.prototype.rpad = function(padLen, padStr) {
 };
 
 var dates = {
-    convert:function(d) {
+    convert: function (d) {
         // Converts the date in d to a date-object. The input can be:
         //   a date object: returned without modification
         //  an array      : Interpreted as [year,month,day]. NOTE: month is 0-11.
@@ -484,14 +487,14 @@ var dates = {
         //                  attributes.  **NOTE** month is 0-11.
         return (
             d.constructor === Date ? d :
-            d.constructor === Array ? new Date(d[0],d[1],d[2]) :
-            d.constructor === Number ? new Date(d) :
-            d.constructor === String ? new Date(d) :
-            typeof d === "object" ? new Date(d.year,d.month,d.date) :
-            NaN
+                d.constructor === Array ? new Date(d[0], d[1], d[2]) :
+                    d.constructor === Number ? new Date(d) :
+                        d.constructor === String ? new Date(d) :
+                            typeof d === "object" ? new Date(d.year, d.month, d.date) :
+                                NaN
         );
     },
-    compare:function(a,b) {
+    compare: function (a, b) {
         // Compare two dates (could be of any type supported by the convert
         // function above) and returns:
         //  -1 : if a < b
@@ -500,34 +503,34 @@ var dates = {
         // NaN : if a or b is an illegal date
         // NOTE: The code inside isFinite does an assignment (=).
         return (
-            isFinite(a=this.convert(a).valueOf()) &&
-            isFinite(b=this.convert(b).valueOf()) ?
-            (a>b)-(a<b) :
-            NaN
+            isFinite(a = this.convert(a).valueOf()) &&
+                isFinite(b = this.convert(b).valueOf()) ?
+                (a > b) - (a < b) :
+                NaN
         );
     },
-    inRange:function(d,start,end) {
+    inRange: function (d, start, end) {
         // Checks if date in d is between dates in start and end.
         // Returns a boolean or NaN:
         //    true  : if d is between start and end (inclusive)
         //    false : if d is before start or after end
         //    NaN   : if one or more of the dates is illegal.
         // NOTE: The code inside isFinite does an assignment (=).
-       return (
-            isFinite(d=this.convert(d).valueOf()) &&
-            isFinite(start=this.convert(start).valueOf()) &&
-            isFinite(end=this.convert(end).valueOf()) ?
-            start <= d && d <= end :
-            NaN
+        return (
+            isFinite(d = this.convert(d).valueOf()) &&
+                isFinite(start = this.convert(start).valueOf()) &&
+                isFinite(end = this.convert(end).valueOf()) ?
+                start <= d && d <= end :
+                NaN
         );
     },
-    dday:function(start,end) {
+    dday: function (start, end) {
         var distance = end - start;//디데이에서 현재까지 뺀다.
-    
+
         var d = Math.floor(distance / (1000 * 60 * 60 * 24));//일
-    
-        var h = Math.floor((distance / (1000*60*60)) % 24);//시간
-        var m = Math.floor((distance / (1000*60)) % 60);//분
+
+        var h = Math.floor((distance / (1000 * 60 * 60)) % 24);//시간
+        var m = Math.floor((distance / (1000 * 60)) % 60);//분
         var s = Math.floor((distance / 1000) % 60);//초
 
         if (distance <= 0) {//당일넘어섰을때, dday로 변경
