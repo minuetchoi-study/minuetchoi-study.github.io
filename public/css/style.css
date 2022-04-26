@@ -52,7 +52,6 @@ body {
 	padding: 0;
 	font-family: 'Gelasio', 'Nanum Myeongjo', serif;
 	color: #2c3e50;
-	background-image: url( "/public/img/bg.png" );
 	overscroll-behavior: contain;
 }
 
