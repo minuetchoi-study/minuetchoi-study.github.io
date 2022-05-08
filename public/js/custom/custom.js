@@ -64,7 +64,7 @@ $(document).ready(function () {
                     if (i == 0) {
                         $('blockquote:eq(' + workCd + ')').append('<ul></ul>');
                     }
-                    $('blockquote:eq(' + workCd + ')').find('ul').append('<li>' + key + ' : ' + value + '</li>');
+                    $('blockquote:eq(' + workCd + ')').find('ul').append('<li>' + key + ' : ' + value + ' <button name="delTodo" data-todo="' + key + '|work to do now">삭제</button></li>');
                 }
                 $('blockquote:eq(' + workCd + ')').show();
             } else {
@@ -80,7 +80,7 @@ $(document).ready(function () {
                     if (i == 0) {
                         $('blockquote:eq(' + workCd + ')').append('<ul></ul>');
                     }
-                    $('blockquote:eq(' + workCd + ')').find('ul').append('<li>' + key + ' : ' + value + '</li>');
+                    $('blockquote:eq(' + workCd + ')').find('ul').append('<li>' + key + ' : ' + value + ' <button name="delTodo" data-todo="' + key + '|work to do later">삭제</button></li>');
                 }
                 $('blockquote:eq(' + workCd + ')').show();
             } else {
@@ -96,7 +96,7 @@ $(document).ready(function () {
                     if (i == 0) {
                         $('blockquote:eq(' + workCd + ')').append('<ul></ul>');
                     }
-                    $('blockquote:eq(' + workCd + ')').find('ul').append('<li>' + key + ' : ' + value + '</li>');
+                    $('blockquote:eq(' + workCd + ')').find('ul').append('<li>' + key + ' : ' + value + ' <button name="delTodo" data-todo="' + key + '|chores to do now">삭제</button></li>');
                 }
                 $('blockquote:eq(' + workCd + ')').show();
             } else {
@@ -112,7 +112,7 @@ $(document).ready(function () {
                     if (i == 0) {
                         $('blockquote:eq(' + workCd + ')').append('<ul></ul>');
                     }
-                    $('blockquote:eq(' + workCd + ')').find('ul').append('<li>' + key + ' : ' + value + '</li>');
+                    $('blockquote:eq(' + workCd + ')').find('ul').append('<li>' + key + ' : ' + value + ' <button name="delTodo" data-todo="' + key + '|chores to do later">삭제</button></li>');
                 }
                 $('blockquote:eq(' + workCd + ')').show();
             } else {
@@ -128,7 +128,7 @@ $(document).ready(function () {
                     if (i == 0) {
                         $('blockquote:eq(' + workCd + ')').append('<ul></ul>');
                     }
-                    $('blockquote:eq(' + workCd + ')').find('ul').append('<li>' + key + ' : ' + value + '</li>');
+                    $('blockquote:eq(' + workCd + ')').find('ul').append('<li>' + key + ' : ' + value + ' <button name="delTodo" data-todo="' + key + '|things to buy now">삭제</button></li>');
                 }
                 $('blockquote:eq(' + workCd + ')').show();
             } else {
@@ -144,12 +144,24 @@ $(document).ready(function () {
                     if (i == 0) {
                         $('blockquote:eq(' + workCd + ')').append('<ul></ul>');
                     }
-                    $('blockquote:eq(' + workCd + ')').find('ul').append('<li>' + key + ' : ' + value + '</li>');
+                    $('blockquote:eq(' + workCd + ')').find('ul').append('<li>' + key + ' : ' + value + ' <button name="delTodo" data-todo="' + key + '|things to buy later">삭제</button></li>');
                 }
                 $('blockquote:eq(' + workCd + ')').show();
             } else {
                 $('blockquote:eq(' + workCd + ')').hide();
             }
+            $('button[name*="delTodo"]').click(function (e) {
+                e.preventDefault();
+                var $obj = $(this);
+                if (!confirm('do you want to delete that todo')) {
+                    return;
+                } else {
+                    console.log(todolist);
+                    delete todolist[$obj.data('todo')];
+                    window.localStorage.setItem('todolist', JSON.stringify(todolist));
+                    $('button[name="searchTodo"]').trigger('click');
+                }
+            });
         });
 
         $('select[name="todoType"]').change(function () {
