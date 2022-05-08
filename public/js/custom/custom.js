@@ -9,6 +9,190 @@ $(document).ready(function () {
         $('.video-container').css('position', 'sticky');
     }
 
+    // todo strt
+    var $todo = $('#todoDiv');
+
+    if ($todo.length > 0) {
+
+        $('button[name="searchTodo"]').click(function (e) {
+            e.preventDefault();
+
+            var todoType = $.trim($('select[name="todoType"]').val());
+            for (var i = 0; i < $('blockquote').length; i++) {
+                $('blockquote').find('ul').remove();
+            }
+            var todolist = JSON.parse(localStorage.getItem('todolist'));
+
+            var workToDoNow = [];
+            var workToDoLater = [];
+            var choresToDoNow = [];
+            var choresToDoLater = [];
+            var thingsToBuyNow = [];
+            var thingsToBuyLater = [];
+            var keys = Object.keys(todolist);
+            var date;
+            var key;
+            var value;
+            var map;
+            for (var i = 0; i < keys.length; i++) {
+                date = keys[i].split('|')[0];
+                key = keys[i].split('|')[1];
+                map = {};
+                map[date] = todolist[keys[i]];
+                if (key == 'work to do now') {
+                    workToDoNow.push(map);
+                } else if (key == 'work to do later') {
+                    workToDoLater.push(map);
+                } else if (key == 'chores to do now') {
+                    choresToDoNow.push(map);
+                } else if (key == 'chores to do later') {
+                    choresToDoLater.push(map);
+                } else if (key == 'things to buy now') {
+                    thingsToBuyNow.push(map);
+                } else if (key == 'things to buy later') {
+                    thingsToBuyLater.push(map);
+                }
+            }
+            var workCd = -1;
+
+            workCd = 0;
+            if (todoType === '' || todoType === 'work to do now') {
+                for (var i = 0; i < workToDoNow.length; i++) {
+                    key = Object.keys(workToDoNow[i])[0];
+                    value = Object.values(workToDoNow[i])[0];
+    
+                    if (i == 0) {
+                        $('blockquote:eq(' + workCd + ')').append('<ul></ul>');
+                    }
+                    $('blockquote:eq(' + workCd + ')').find('ul').append('<li>' + key + ' : ' + value + '</li>');
+                }
+                $('blockquote:eq(' + workCd + ')').show();
+            } else {
+                $('blockquote:eq(' + workCd + ')').hide();
+            }
+
+            workCd = 1;
+            if (todoType === '' || todoType === 'work to do later') {
+                for (var i = 0; i < workToDoLater.length; i++) {
+                    key = Object.keys(workToDoLater[i])[0];
+                    value = Object.values(workToDoLater[i])[0];
+    
+                    if (i == 0) {
+                        $('blockquote:eq(' + workCd + ')').append('<ul></ul>');
+                    }
+                    $('blockquote:eq(' + workCd + ')').find('ul').append('<li>' + key + ' : ' + value + '</li>');
+                }
+                $('blockquote:eq(' + workCd + ')').show();
+            } else {
+                $('blockquote:eq(' + workCd + ')').hide();
+            }
+
+            workCd = 2;
+            if (todoType === '' || todoType === 'chores to do now') {
+                for (var i = 0; i < choresToDoNow.length; i++) {
+                    key = Object.keys(choresToDoNow[i])[0];
+                    value = Object.values(choresToDoNow[i])[0];
+    
+                    if (i == 0) {
+                        $('blockquote:eq(' + workCd + ')').append('<ul></ul>');
+                    }
+                    $('blockquote:eq(' + workCd + ')').find('ul').append('<li>' + key + ' : ' + value + '</li>');
+                }
+                $('blockquote:eq(' + workCd + ')').show();
+            } else {
+                $('blockquote:eq(' + workCd + ')').hide();
+            }
+
+            workCd = 3;
+            if (todoType === '' || todoType === 'chores to do later') {
+                for (var i = 0; i < choresToDoLater.length; i++) {
+                    key = Object.keys(choresToDoLater[i])[0];
+                    value = Object.values(choresToDoLater[i])[0];
+    
+                    if (i == 0) {
+                        $('blockquote:eq(' + workCd + ')').append('<ul></ul>');
+                    }
+                    $('blockquote:eq(' + workCd + ')').find('ul').append('<li>' + key + ' : ' + value + '</li>');
+                }
+                $('blockquote:eq(' + workCd + ')').show();
+            } else {
+                $('blockquote:eq(' + workCd + ')').hide();
+            }
+
+            workCd = 4;
+            if (todoType === '' || todoType === 'things to buy now') {
+                for (var i = 0; i < thingsToBuyNow.length; i++) {
+                    key = Object.keys(thingsToBuyNow[i])[0];
+                    value = Object.values(thingsToBuyNow[i])[0];
+    
+                    if (i == 0) {
+                        $('blockquote:eq(' + workCd + ')').append('<ul></ul>');
+                    }
+                    $('blockquote:eq(' + workCd + ')').find('ul').append('<li>' + key + ' : ' + value + '</li>');
+                }
+                $('blockquote:eq(' + workCd + ')').show();
+            } else {
+                $('blockquote:eq(' + workCd + ')').hide();
+            }
+
+            workCd = 5;
+            if (todoType === '' || todoType === 'things to buy later') {
+                for (var i = 0; i < thingsToBuyLater.length; i++) {
+                    key = Object.keys(thingsToBuyLater[i])[0];
+                    value = Object.values(thingsToBuyLater[i])[0];
+    
+                    if (i == 0) {
+                        $('blockquote:eq(' + workCd + ')').append('<ul></ul>');
+                    }
+                    $('blockquote:eq(' + workCd + ')').find('ul').append('<li>' + key + ' : ' + value + '</li>');
+                }
+                $('blockquote:eq(' + workCd + ')').show();
+            } else {
+                $('blockquote:eq(' + workCd + ')').hide();
+            }
+        });
+
+        $('select[name="todoType"]').change(function () {
+            $('button[name="searchTodo"]').trigger('click');
+        });
+        $('button[name="saveTodo"]').click(function (e) {
+            e.preventDefault();
+
+            var todoType = $.trim($('select[name="todoType"]').val());
+            if (todoType === '') {
+                alert('Please, select todo');
+                return;
+            }
+
+            var todoVal = $.trim($('textarea[name="todoVal"]').val());
+            if (todoVal === '') {
+                alert('Please, enter todo');
+                return;
+            }
+
+            if (!confirm('Do you want to save todo')) {
+                return;
+            } else {
+                var todolist = JSON.parse(localStorage.getItem('todolist'));
+                var todoKey = dates.today() + '|' + todoType;
+                console.log(dates.today());
+                if (todolist == null) {
+                    todolist = {};
+                }
+                todolist[todoKey] = todoVal;
+                window.localStorage.setItem('todolist', JSON.stringify(todolist));
+                alert('Saved');
+                $('select[name="todoType"]').val('');
+                $('textarea[name="todoVal"]').val('');
+                $('button[name="searchTodo"]').trigger('click');
+            }
+        });
+        $('button[name="searchTodo"]').trigger('click');
+    }
+
+    //-- todo end
+
+
     // 영상 strt
     var $video = $('video');
 
@@ -548,5 +732,20 @@ var dates = {
             //return d.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") + ' (' + (h + ':' + m + ':' + s) + ')';
             return d.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
         }
+    },
+    today: function() {
+        var today = new Date();
+        var year = today.getFullYear();
+        var month = today.getMonth() + 1;
+        var date = today.getDate();
+        var hour = today.getHours();
+        var minute = today.getMinutes();
+        var second = today.getSeconds();
+        month = month < 10 ? '0' + month : month;
+        date = date < 10 ? '0' + date : date;
+        minute = minute < 10 ? '0' + minute : minute;
+        second = second < 10 ? '0' + second : second;
+        var now = year + "-" + month + "-" + date + " " + hour + ":" + minute + ":" + second;
+        return now
     }
 }
