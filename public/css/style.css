@@ -71,6 +71,7 @@ pre {
 	margin-bottom: 15px;
 	padding-bottom: 10px;
 	padding: 5px;
+	text-align: left;
 	margin: 0px;
 	line-height: 1.2;
 }
@@ -300,7 +301,6 @@ header.home {
 .post-date {
 	text-transform: uppercase;
 	color: #555;
-	letter-spacing: 1px;
 	font-size: 0.8em;
 	display: inline-block;
 	width: 80px;
