@@ -226,6 +226,9 @@ $(document).ready(function () {
                 player.playlist(shuffle(arr));
                 player.playlist.autoadvance(0);
                 player.playlist.repeat(true);
+                setTimeout(function () {
+                    $('html, body').animate({ scrollTop: $('.post-content').offset().top}, 2000);
+                }, 3000);
             },
             error: function (xhr, status, error) {
                 console.log("ERROR!!!");
