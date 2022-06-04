@@ -6,7 +6,7 @@ category: english
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/영어가 안되시는분 일단 클릭.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/권아나TV-영어가 안되시는분 일단 클릭.json"></video>
 </div>
 
 | --- | --- | --- |
