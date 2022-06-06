@@ -261,7 +261,6 @@ $(document).ready(function () {
     $('.lbsize').find('img').css('width', '100px');
     $('.lbsize').find('img').css('height', '100px');
 
-    var youtubeEmbedUrl = 'https://www.youtube-nocookie.com/embed/';
     var audio = [];
     var ringsToPlay = 0;
     var repeat = 0;
@@ -276,38 +275,29 @@ $(document).ready(function () {
     tocMenu.push('<ul class="toc__menu">');
     $('#conversation').prepend('<colgroup><col width="4px;" /><col width="*" /><col width="40px;" /></colgroup>');
     $('#conversation').find('tr').each(function (index, element) {
-        var textTd = $.trim($(element).find('td:eq(0)').html());
+
         var title = $.trim($(element).find('td:eq(1)').html());
-        if (/\d+/.test(textTd)) {
-            $(element).empty();
-            $(element).append('<td style="padding: 0px; background-color: #ee5f5b;" id=-' + textTd + '></td>');
-            $(element).append('<td colspan="2" style="background-color: #fffef3"><i>' + title + '</i></td>');
+        var $a = $(element).find('a');
+        $(element).find('td:eq(0)').css('backgroundColor', '#ee5f5b');
+        $(element).find('td:eq(0)').css('padding', '0px');
+        $(element).find('td:eq(0)').css('text-align', 'center');
+        $(element).find('td:eq(0)').html((index + 1));
+        $(element).find('td:eq(2)').addClass('playTd');
 
-            tocMenu.push('<li><a href="#-' + textTd + '">' + title + '</a></li>');
-            q++;
-        } else {
-            var $a = $(element).find('a');
-            $(element).find('td:eq(0)').css('padding', '0px')
-            $(element).find('td:eq(2)').addClass('playTd');
-            $(element).find('td:eq(3)').addClass('youtubeTd');
-            $(element).find('td:eq(3)').css('padding', '5px');
-
-            if ($a.length > 0) {
-                if (index !== 0) {
-                    q++;
-                }
-                num = q.toString().lpad(5, 0);
-                $(element).prop('id', 'tr' + num);
-            } else {
-                num = q.toString().lpad(5, 0);
-                $(element).prop('id', 'tr' + num + '-' + index);
+        if ($a.length > 0) {
+            if (index !== 0) {
+                q++;
             }
+            num = q.toString().lpad(5, 0);
+            $(element).prop('id', 'tr' + num);
+        } else {
+            num = q.toString().lpad(5, 0);
+            $(element).prop('id', 'tr' + num + '-' + index);
         }
     });
     tocMenu.push('</ul>');
     $('.toc').append(tocMenu.join(''));
 
-    $('.youtubeTd').hide();
     $('a[id*=play-pause-button]').each(function (index, element) {
         audio[index] = new Audio($(element).data('url'));
         $(element).click(function (e, p) {
@@ -567,16 +557,6 @@ $(document).ready(function () {
                 $(this).addClass('btn--inverse');
             }
         }
-    });
-
-    $('a[id*=youtube-pause-button]').each(function (index, element) {
-        $(element).click(function (e) {
-            e.preventDefault();
-            var offset = $('.responsive-video-container').offset();
-            $('html, body').animate({ scrollTop: offset.top }, 400);
-            var videoSeq = $(element).find('img').prop('alt');
-            $('.responsive-video-container').find('iframe').prop('src', youtubeEmbedUrl + videoSeq + '?autoplay=1');
-        });
     });
 
     $('#reset').click(function (e) {
