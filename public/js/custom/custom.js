@@ -348,7 +348,13 @@ $(document).ready(function () {
                 $('tr[id*=' + trId + ']').find('td:eq(0)').css('backgroundColor', '#ee5f5b');
                 if (type !== '') {
                     var offset = $(this).offset();
-                    $('html, body').animate({ scrollTop: offset.top - ($('#player').height() + 200) }, 400, function () {
+                    var videoHeight;
+                    if ($('#player').length > 0) {
+                        videoHeight = $('#player').height();
+                    } else {
+                        videoHeight = 0;
+                    }
+                    $('html, body').animate({ scrollTop: offset.top - (videoHeight + 200) }, 400, function () {
                         if ($('#guidePopup').find('img').attr('src') == '/public/icon/open-popup-button.png') {
                             setTimeout(function () {
                                 var reTitle = '';
