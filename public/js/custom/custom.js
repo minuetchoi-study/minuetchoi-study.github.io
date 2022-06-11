@@ -278,7 +278,6 @@ $(document).ready(function () {
 
         var title = $.trim($(element).find('td:eq(1)').html());
         var $a = $(element).find('a');
-        $(element).find('td:eq(0)').css('backgroundColor', '#ee5f5b');
         $(element).find('td:eq(0)').css('padding', '0px');
         $(element).find('td:eq(0)').css('text-align', 'center');
         $(element).find('td:eq(0)').html((index + 1));
@@ -336,6 +335,7 @@ $(document).ready(function () {
                     $('a[id*=play-pause-button]').eq(i).addClass('fa-play');
                     var trId = $('a[id*=play-pause-button]').eq(i).closest('tr').prop('id');
                     $('tr[id*=' + trId + ']').css('background-color', '');
+                    $('tr[id*=' + trId + ']').find('td:eq(0)').css('backgroundColor', '');
                     audio[i].currentTime = 0;
                     audio[i].pause();
                 }
@@ -345,9 +345,10 @@ $(document).ready(function () {
                 $(this).addClass('fa-pause');
                 var trId = $(this).closest('tr').prop('id');
                 $('tr[id*=' + trId + ']').css('background-color', '#fde1b4');
+                $('tr[id*=' + trId + ']').find('td:eq(0)').css('backgroundColor', '#ee5f5b');
                 if (type !== '') {
                     var offset = $(this).offset();
-                    $('html, body').animate({ scrollTop: offset.top - 100 }, 400, function () {
+                    $('html, body').animate({ scrollTop: offset.top - ($('#player').height() + 200) }, 400, function () {
                         if ($('#guidePopup').find('img').attr('src') == '/public/icon/open-popup-button.png') {
                             setTimeout(function () {
                                 var reTitle = '';
@@ -358,7 +359,8 @@ $(document).ready(function () {
                                     reTitle += $(element).html();
                                 });
                                 var magnificTitl = {};
-                                magnificTitl.src = '<div class="white-popup">' + reTitle + '<button title="Close (Esc)" type="button" class="mfp-close">×</button></div>';
+                                //magnificTitl.src = '<div class="white-popup">' + reTitle + '<button title="Close (Esc)" type="button" class="mfp-close">×</button></div>';
+                                magnificTitl.src = '<div class="white-popup">' + reTitle;
                                 magnificTitl.type = 'inline';
                                 $('#dummy_popup').magnificPopup({
                                     items: magnificTitl,
@@ -396,7 +398,8 @@ $(document).ready(function () {
                             reTitle += $(element).html();
                         });
                         var magnificTitl = {};
-                        magnificTitl.src = '<div class="white-popup">' + reTitle + '<button title="Close (Esc)" type="button" class="mfp-close">×</button></div>';
+                        //magnificTitl.src = '<div class="white-popup">' + reTitle + '<button title="Close (Esc)" type="button" class="mfp-close">×</button></div>';
+                        magnificTitl.src = '<div class="white-popup">' + reTitle;
                         magnificTitl.type = 'inline';
                         $('#dummy_popup').magnificPopup({
                             items: magnificTitl,
