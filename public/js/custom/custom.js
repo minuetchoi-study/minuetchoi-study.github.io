@@ -436,6 +436,7 @@ $(document).ready(function () {
                 $(this).addClass('fa-play');
                 var trId = $(this).closest('tr').prop('id');
                 $('tr[id*=' + trId + ']').css('background-color', '');
+                $('tr[id*=' + trId + ']').find('td:eq(0)').css('backgroundColor', '');
                 $('.mfp-close').trigger('click');
                 audio[no].currentTime = 0;
                 audio[no].pause();
@@ -445,6 +446,7 @@ $(document).ready(function () {
                 $('a[id*=play-pause-button]').addClass('fa-play');
                 var trId = $('a[id*=play-pause-button]').eq(no).closest('tr').prop('id');
                 $('tr[id*=' + trId + ']').css('background-color', '');
+                $('tr[id*=' + trId + ']').find('td:eq(0)').css('backgroundColor', '');
                 if ($('#guidePopup').find('img').attr('src') == '/public/icon/open-popup-button.png') {
                     $('.mfp-close').trigger('click');
                 }
@@ -509,6 +511,7 @@ $(document).ready(function () {
                 $('a[id*=play-pause-button]').eq(i).addClass('fa-play');
                 var trId = $('a[id*=play-pause-button]').eq(i).closest('tr').prop('id');
                 $('tr[id*=' + trId + ']').css('background-color', '');
+                $('tr[id*=' + trId + ']').find('td:eq(0)').css('backgroundColor', '');
                 audio[i].currentTime = 0;
                 audio[i].pause();
             }
@@ -548,6 +551,7 @@ $(document).ready(function () {
                 $('a[id*=play-pause-button]').eq(i).addClass('fa-play');
                 var trId = $('a[id*=play-pause-button]').eq(i).closest('tr').prop('id');
                 $('tr[id*=' + trId + ']').css('background-color', '');
+                $('tr[id*=' + trId + ']').find('td:eq(0)').css('backgroundColor', '');
                 audio[i].currentTime = 0;
                 audio[i].pause();
             }
@@ -578,7 +582,7 @@ $(document).ready(function () {
                 $('a[id*=play-pause-button]').eq(i).addClass('fa-play');
                 var trId = $('a[id*=play-pause-button]').eq(i).closest('tr').prop('id');
                 $('tr[id*=' + trId + ']').css('background-color', '');
-
+                $('tr[id*=' + trId + ']').find('td:eq(0)').css('backgroundColor', '');
                 audio[i].currentTime = 0;
                 audio[i].pause();
             }
