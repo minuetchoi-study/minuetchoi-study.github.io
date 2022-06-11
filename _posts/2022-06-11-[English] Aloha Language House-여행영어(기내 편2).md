@@ -30,7 +30,6 @@ category: english
 | | Can I have coffee now?<br /><sub>지금  커피를 마실 수 있을가요?</sub> | [](#){: data-url="/public/media/여행영어(기내 편2)18.aac" #play-pause-button .fa .fa-play} |
 | | I feel sick. Could you give me some medicine?<br /><sub>몸이 안 좋아서요. 약 좀 주실 수 있나요?</sub> | [](#){: data-url="/public/media/여행영어(기내 편2)19.aac" #play-pause-button .fa .fa-play} |
 | | What's the matter?<br /><sub>어떤 상태이신가요?</sub> | [](#){: data-url="/public/media/여행영어(기내 편2)20.aac" #play-pause-button .fa .fa-play} |
-
 | | I have a headache.<br /><sub>머리가 아파요.</sub> | [](#){: data-url="/public/media/여행영어(기내 편2)21.aac" #play-pause-button .fa .fa-play} |
 | | I have a fever.<br /><sub>열이 나요.</sub> | [](#){: data-url="/public/media/여행영어(기내 편2)22.aac" #play-pause-button .fa .fa-play} |
 | | I am airsick.<br /><sub>멀미가 나요.</sub> | [](#){: data-url="/public/media/여행영어(기내 편2)23.aac" #play-pause-button .fa .fa-play} |
@@ -39,9 +38,6 @@ category: english
 | | Would you close your tray table, please?<br /><sub>트레이 테이블을 제자리에 놓아주시겠습니까?</sub> | [](#){: data-url="/public/media/여행영어(기내 편2)26.aac" #play-pause-button .fa .fa-play} |
 | | Put your seat back upright, please.<br /><sub>좌석을 세워주세요.</sub> | [](#){: data-url="/public/media/여행영어(기내 편2)27.aac" #play-pause-button .fa .fa-play} |
 | | Please open your window shades.<br /><sub>창문 덮개를 열어주세요.</sub> | [](#){: data-url="/public/media/여행영어(기내 편2)28.aac" #play-pause-button .fa .fa-play} |
-
-
-
 {: #conversation }
 
 {% capture c %}
