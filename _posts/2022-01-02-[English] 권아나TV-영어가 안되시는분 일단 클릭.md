@@ -69,6 +69,7 @@ category: english
 {% endcapture %}
 
 <div class="bottom-bar">
+  <div class="bottom-bar1"></div>
   <div class="bottom-bar2">{{ c | markdownify | remove: "<p>" | remove: "</p>"}}</div>
   <div class="bottom-bar3">{{ d | markdownify | remove: "<p>" | remove: "</p>"}}</div>
 </div>
