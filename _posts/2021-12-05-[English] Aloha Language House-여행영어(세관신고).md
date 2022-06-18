@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Aloha Language House]-여행영어(세관신고)"
-date: 2022-06-14 10:00:00 +0900
+date: 2021-12-05 10:00:00 +0900
 category: english
 ---
 

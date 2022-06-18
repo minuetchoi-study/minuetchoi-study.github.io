@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Aloha Language House]-여행영어(기내 편1)"
-date: 2022-06-10 10:00:00 +0900
+date: 2021-12-01 10:00:00 +0900
 category: english
 ---
 
