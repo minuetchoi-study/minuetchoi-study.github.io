@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "[Cocomelon]-Wheels On The Bus Dance"
+title: "[Cocomelon]-Wheels On The Bus"
 date: 2021-01-01 10:00:00 +0900
 category: english
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/Cocomelon-Wheels On The Bus Dance.json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/Cocomelon-Wheels On The Bus.json"></video>
 </div>
 
 <br>
