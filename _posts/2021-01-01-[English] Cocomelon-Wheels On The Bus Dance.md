@@ -11,7 +11,7 @@ category: english
 
 <br>
 
-> 가사
+> lyrics
 - The Wheels on the bus go round and round<br /><sub>버스 바퀴가 빙글빙글 굴러가요</sub>
 - Round and round!<br /><sub>빙글빙글</sub>
 - Round and round!<br /><sub>빙글빙글</sub>
