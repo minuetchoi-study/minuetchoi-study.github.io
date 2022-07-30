@@ -15,7 +15,7 @@ category: english
 | | Where is my seat?<br /><sub>제 자리는 어디인가요?</sub> | [](#){: data-url="/public/media/여행영어(기내 편1)3.aac" #play-pause-button .fa .fa-play} |
 | | Your seat is by the window<br /><sub>당신 좌석은 창가입니다.</sub> | [](#){: data-url="/public/media/여행영어(기내 편1)4.aac" #play-pause-button .fa .fa-play} |
 | | Please put your bag under your seat.<br /><sub>가방은 의자 밑에 놓아주십시오.</sub> | [](#){: data-url="/public/media/여행영어(기내 편1)5.aac" #play-pause-button .fa .fa-play} |
-| | Could you help me put my bag in the overhead bin?<br /><sub></sub> | [](#){: data-url="/public/media/여행영어(기내 편1)6.aac" #play-pause-button .fa .fa-play} |
+| | Could you help me put my bag in the overhead bin?<br /><sub>제 가방을 선반 위에 올리는 걸 도와주시겠어요?</sub> | [](#){: data-url="/public/media/여행영어(기내 편1)6.aac" #play-pause-button .fa .fa-play} |
 | | Fasten your seat belt, please<br /><sub>안전벤트를 착용해 주십시요.</sub> | [](#){: data-url="/public/media/여행영어(기내 편1)7.aac" #play-pause-button .fa .fa-play} |
 | | Could I have earplugs?<br /><sub>이어플러그 좀 주시겠어요?</sub> | [](#){: data-url="/public/media/여행영어(기내 편1)8.aac" #play-pause-button .fa .fa-play} |
 | | Can I have some tea, please?<br /><sub>차 좀 주시겠어요?</sub> | [](#){: data-url="/public/media/여행영어(기내 편1)9.aac" #play-pause-button .fa .fa-play} |
