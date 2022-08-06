@@ -19,10 +19,10 @@ category: english
 | | Here it is. Would you like to have still water or sparkling water?<br /><sub>여기 있습니다. 생수나 탄산수를 드시겠어요?</sub> | [](#){: data-url="/public/media/여행영어(식당)7.aac" #play-pause-button .fa .fa-play} |
 | | Sparkling water, please.<br /><sub>탄산수로 주세요.</sub> | [](#){: data-url="/public/media/여행영어(식당)8.aac" #play-pause-button .fa .fa-play} |
 | | May I take your order?<br /><sub>주문을 받아도 될가요?</sub> | [](#){: data-url="/public/media/여행영어(식당)9.aac" #play-pause-button .fa .fa-play} |
-| | Yes, I'd like to have Caeesar Salad as an appetizer.<br /><sub>네, 메인 메뉴는 뭘로 하시겠습니까?</sub> | [](#){: data-url="/public/media/여행영어(식당)10.aac" #play-pause-button .fa .fa-play} |
-| | Yes, What would you like to have as entrée, ma'am?<br /><sub>토마호크 스테이크와 파스타 주세요.</sub> | [](#){: data-url="/public/media/여행영어(식당)11.aac" #play-pause-button .fa .fa-play} |
-| | I'd like to have Tomahawk steak and pasta.<br /><sub>사이드 메뉴를 고르실 수 있습니다.</sub> | [](#){: data-url="/public/media/여행영어(식당)12.aac" #play-pause-button .fa .fa-play} |
-| | You can choose the side dishes.<br /><sub></sub> | [](#){: data-url="/public/media/여행영어(식당)13.aac" #play-pause-button .fa .fa-play} |
+| | Yes, I'd like to have Caeesar Salad as an appetizer.<br /><sub>네. 저는 시저 샐러드를 에피타이저로 할래요</sub> | [](#){: data-url="/public/media/여행영어(식당)10.aac" #play-pause-button .fa .fa-play} |
+| | Yes, What would you like to have as entrée, ma'am?<br /><sub>네, 메인 메뉴는 뭘로 하시겠습니까?</sub> | [](#){: data-url="/public/media/여행영어(식당)11.aac" #play-pause-button .fa .fa-play} |
+| | I'd like to have Tomahawk steak and pasta.<br /><sub>토마호크 스테이크와 파스타 주세요.</sub> | [](#){: data-url="/public/media/여행영어(식당)12.aac" #play-pause-button .fa .fa-play} |
+| | You can choose the side dishes.<br /><sub>사이드 메뉴를 고르실 수 있습니다.</sub> | [](#){: data-url="/public/media/여행영어(식당)13.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}
