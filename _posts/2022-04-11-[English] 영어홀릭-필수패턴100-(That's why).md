@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[영어홀릭]-필수패턴100-(That's why)"
+title: "[영어홀릭]-필수패턴100-(That's why)v"
 date: 2022-04-11 10:00:00 +0900
 category: english
 ---
@@ -10,11 +10,13 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | I'm glad (that) you came.
-| | I'm glad (that) you like it.
-| | I'm glad (that) you're here.
-| | I'm glad (that) you're back.
-| | I'm glad (that) you're okay.
+| | That's why I said no. | 
+| | That's why I was late |
+| | That's why I love you |
+| | That's why I need you |
+| | That's why I'm here |
+
+
 {: #conversation }
 | | <br/><sub></sub>
 
