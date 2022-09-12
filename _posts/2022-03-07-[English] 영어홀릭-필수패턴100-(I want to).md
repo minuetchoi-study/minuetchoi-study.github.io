@@ -10,13 +10,12 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | I'm glad (that) you came.
-| | I'm glad (that) you like it.
-| | I'm glad (that) you're here.
-| | I'm glad (that) you're back.
-| | I'm glad (that) you're okay.
+| | I want to talk to you.<br /><sub>너랑 대화하고 싶어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I want to)1.aac" #play-pause-button .fa .fa-play} |
+| | I want to ask you something.<br /><sub>뭐 좀 물어보고 싶어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I want to)2.aac" #play-pause-button .fa .fa-play} |
+| | I want to say I'm sorry.<br /><sub>미안하다고 말하고 싶어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I want to)3.aac" #play-pause-button .fa .fa-play} |
+| | I want to learn English.<br /><sub>영어를 배우고 싶어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I want to)4.aac" #play-pause-button .fa .fa-play} |
+| | I want to do it my way.<br /><sub>내 방식대로 하고 싶어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I want to)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
-| | <br/><sub></sub>
 
 {% capture c %}
   [![](/public/icon/sorting-order-button.png){: width="20" height="20"}](#){: #allListen .btn .btn--inverse}
