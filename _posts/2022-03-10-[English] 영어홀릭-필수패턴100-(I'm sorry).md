@@ -10,13 +10,12 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | I'm glad (that) you came.
-| | I'm glad (that) you like it.
-| | I'm glad (that) you're here.
-| | I'm glad (that) you're back.
-| | I'm glad (that) you're okay.
+| | I'm sorry for my mistake.<br /><sub>실수해서 미안해.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm sorry)1.aac" #play-pause-button .fa .fa-play} |
+| | I'm sorry for everything.<br /><sub>여러가지로 미안해.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm sorry)2.aac" #play-pause-button .fa .fa-play} |
+| | I'm sorry to bother you.<br /><sub>귀찮게해서 미안해.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm sorry)3.aac" #play-pause-button .fa .fa-play} |
+| | I'm sorry to keep you waiting.<br /><sub>기다리게해서 미안해.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm sorry)4.aac" #play-pause-button .fa .fa-play} |
+| | I'm sorry I can't be there tonight.<br /><sub>오늘밤 거기갈 수 없어서 미안해.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm sorry)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
-| | <br/><sub></sub>
 
 {% capture c %}
   [![](/public/icon/sorting-order-button.png){: width="20" height="20"}](#){: #allListen .btn .btn--inverse}

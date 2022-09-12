@@ -10,13 +10,12 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | I'm glad (that) you came.
-| | I'm glad (that) you like it.
-| | I'm glad (that) you're here.
-| | I'm glad (that) you're back.
-| | I'm glad (that) you're okay.
+| | I'm afraid of the dark.<br /><sub>어두운게 무서워.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm afraid)1.aac" #play-pause-button .fa .fa-play} |
+| | I'm afraid of heights.<br /><sub>높은 곳이 무서워.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm afraid)2.aac" #play-pause-button .fa .fa-play} |
+| | I'm afraid I can't do that.<br /><sub>아무래도 못 할것 같아.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm afraid)3.aac" #play-pause-button .fa .fa-play} |
+| | I'm afraid of rejection.<br /><sub>거절당할까봐 두려워.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm afraid)4.aac" #play-pause-button .fa .fa-play} |
+| | I'm afraid I have some bad news.<br /><sub>유감스럽지만 안좋은 소식이 있어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm afraid)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
-| | <br/><sub></sub>
 
 {% capture c %}
   [![](/public/icon/sorting-order-button.png){: width="20" height="20"}](#){: #allListen .btn .btn--inverse}
