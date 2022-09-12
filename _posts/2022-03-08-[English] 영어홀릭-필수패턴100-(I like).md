@@ -10,13 +10,12 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | I'm glad (that) you came.
-| | I'm glad (that) you like it.
-| | I'm glad (that) you're here.
-| | I'm glad (that) you're back.
-| | I'm glad (that) you're okay.
+| | I like it here.<br /><sub>여기 맘에 들어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I like)1.aac" #play-pause-button .fa .fa-play} |
+| | I like this better.<br /><sub>이게 더 맘에 들어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I like)2.aac" #play-pause-button .fa .fa-play} |
+| | I like hanging out with my friends.<br /><sub>친구들이랑 노는게 좋아.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I like)3.aac" #play-pause-button .fa .fa-play} |
+| | I like watching Netflix.<br /><sub>넷플릭스 보는것을 좋아해.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I like)4.aac" #play-pause-button .fa .fa-play} |
+| | I like talking with you.<br /><sub>너랑 얘기하는것을 좋아해.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I like)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
-| | <br/><sub></sub>
 
 {% capture c %}
   [![](/public/icon/sorting-order-button.png){: width="20" height="20"}](#){: #allListen .btn .btn--inverse}
