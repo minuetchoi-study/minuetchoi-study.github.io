@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | I'm good at that.<br /><sub></sub> |
-| | I'm good at math.<br /><sub></sub> |
-| | I'm good at everything.<br /><sub></sub> |
-| | I'm good at one thing<br /><sub></sub> |
-| | I'm good at playing games<br><sub></sub> |
+| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
+| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
+| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
+| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
+| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}

@@ -10,13 +10,12 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | I'm glad (that) you came.
-| | I'm glad (that) you like it.
-| | I'm glad (that) you're here.
-| | I'm glad (that) you're back.
-| | I'm glad (that) you're okay.
+| | I'm getting used to it.<br /><sub>익숙해지고 있어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm getting)1.aac" #play-pause-button .fa .fa-play} |
+| | I'm getting fat.<br /><sub>점점 살찌고 있어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm getting)2.aac" #play-pause-button .fa .fa-play} |
+| | I'm getting better.<br /><sub>점점 나아지고 있어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm getting)3.aac" #play-pause-button .fa .fa-play} |
+| | I'm getting tired.<br /><sub>슬슬 피곤이 몰려오네.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm getting)4.aac" #play-pause-button .fa .fa-play} |
+| | I'm getting forgetful.<br /><sub>점점 건방증이 심해지네.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm getting)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
-| | <br/><sub></sub>
 
 {% capture c %}
   [![](/public/icon/sorting-order-button.png){: width="20" height="20"}](#){: #allListen .btn .btn--inverse}
