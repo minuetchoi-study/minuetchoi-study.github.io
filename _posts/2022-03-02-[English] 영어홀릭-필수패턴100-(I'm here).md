@@ -10,13 +10,12 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | I'm glad (that) you came.
-| | I'm glad (that) you like it.
-| | I'm glad (that) you're here.
-| | I'm glad (that) you're back.
-| | I'm glad (that) you're okay.
+| | I'm here to talk to you.<br /><sub>너랑 얘기하러 왔어요.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm here)1.aac" #play-pause-button .fa .fa-play} |
+| | I'm here to study.<br /><sub>공부하러 왔어요.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm here)2.aac" #play-pause-button .fa .fa-play} |
+| | I'm here to apologize.<br /><sub>사과하러 왔어요.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm here)3.aac" #play-pause-button .fa .fa-play} |
+| | I'm here to help you.<br /><sub>도와주러 왔어요.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm here)4.aac" #play-pause-button .fa .fa-play} |
+| | I'm here for my business.<br /><sub>사업때문에 왔어요.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm here)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
-| | <br/><sub></sub>
 
 {% capture c %}
   [![](/public/icon/sorting-order-button.png){: width="20" height="20"}](#){: #allListen .btn .btn--inverse}

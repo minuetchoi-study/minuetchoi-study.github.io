@@ -10,13 +10,12 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | I'm glad (that) you came.
-| | I'm glad (that) you like it.
-| | I'm glad (that) you're here.
-| | I'm glad (that) you're back.
-| | I'm glad (that) you're okay.
+| | I'm glad (that) you came.<br /><sub>와줘서 기뻐요</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm glad)1.aac" #play-pause-button .fa .fa-play} |
+| | I'm glad (that) you like it.<br /><sub>좋아해주니 기쁘네요</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm glad)2.aac" #play-pause-button .fa .fa-play} |
+| | I'm glad (that) you're here.<br /><sub>네가 있어서 다행이야</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm glad)3.aac" #play-pause-button .fa .fa-play} |
+| | I'm glad (that) you're back.<br /><sub>돌아와서 기뻐요</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm glad)4.aac" #play-pause-button .fa .fa-play} |
+| | I'm glad (that) you're okay.<br /><sub>괜찮으셔서 다행이에요.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm glad)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
-| | <br/><sub></sub>
 
 {% capture c %}
   [![](/public/icon/sorting-order-button.png){: width="20" height="20"}](#){: #allListen .btn .btn--inverse}

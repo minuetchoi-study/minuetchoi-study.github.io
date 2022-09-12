@@ -10,13 +10,12 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | I'm glad (that) you came.
-| | I'm glad (that) you like it.
-| | I'm glad (that) you're here.
-| | I'm glad (that) you're back.
-| | I'm glad (that) you're okay.
+| | You can have it.<br /><sub>그거 가져도 돼요.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(You can have)1.aac" #play-pause-button .fa .fa-play} |
+| | You can have some free time.<br /><sub>자유시간을 가져도 되요.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(You can have)2.aac" #play-pause-button .fa .fa-play} |
+| | You can have some coffee.<br /><sub>커피를 마셔도 되요.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(You can have)3.aac" #play-pause-button .fa .fa-play} |
+| | You can have everything you want.<br /><sub>원하는 것 모두 가져도 되요.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(You can have)4.aac" #play-pause-button .fa .fa-play} |
+| | You can have your choice.<br /><sub>네가 선택할 수 있어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(You can have)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
-| | <br/><sub></sub>
 
 {% capture c %}
   [![](/public/icon/sorting-order-button.png){: width="20" height="20"}](#){: #allListen .btn .btn--inverse}

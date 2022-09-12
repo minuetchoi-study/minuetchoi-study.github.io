@@ -10,13 +10,12 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | I'm glad (that) you came.
-| | I'm glad (that) you like it.
-| | I'm glad (that) you're here.
-| | I'm glad (that) you're back.
-| | I'm glad (that) you're okay.
+| | I'm just about to leave.<br /><sub>막 떠나려는 참이에요.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm just about to)1.aac" #play-pause-button .fa .fa-play} |
+| | I'm just about to tell you.<br /><sub>막 말하려던 참이에요.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm just about to)2.aac" #play-pause-button .fa .fa-play} |
+| | I'm just about to go out.<br /><sub>막 나가려던 참이에요.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm just about to)3.aac" #play-pause-button .fa .fa-play} |
+| | I'm just about to have dinner.<br /><sub>저녁 먹으려던 참이에요.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm just about to)4.aac" #play-pause-button .fa .fa-play} |
+| | I'm just about to start it.<br /><sub>막 시작하려던 참이에요.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm just about to)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
-| | <br/><sub></sub>
 
 {% capture c %}
   [![](/public/icon/sorting-order-button.png){: width="20" height="20"}](#){: #allListen .btn .btn--inverse}
