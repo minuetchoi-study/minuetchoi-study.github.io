@@ -10,12 +10,13 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | I'm sure you can do it<br /><sub></sub> |
-| | I'm sure you understand<br /><sub></sub> |
-| | I'm sure you'll be very happy<br /><sub></sub> |
-| | I'm sure about one thing<br /><sub></sub> |
-| | I'm sure that's true<br/><sub></sub> |
+| | I'm sure you can do it.<br /><sub>네가 할 수 있다고 확신해.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm sure)1.aac" #play-pause-button .fa .fa-play} |
+| | I'm sure you understand.<br /><sub>네가 이해할 수 있다고 확신해.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm sure)2.aac" #play-pause-button .fa .fa-play} |
+| | I'm sure you'll be very happy.<br /><sub>네가 행복하게 될거라 확신해.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm sure)3.aac" #play-pause-button .fa .fa-play} |
+| | I'm sure about one thing.<br /><sub>한가지는 확신해.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm sure)4.aac" #play-pause-button .fa .fa-play} |
+| | I'm sure that's true.<br /><sub>진짜라고 확신해.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm sure)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
+
 
 {% capture c %}
   [![](/public/icon/sorting-order-button.png){: width="20" height="20"}](#){: #allListen .btn .btn--inverse}

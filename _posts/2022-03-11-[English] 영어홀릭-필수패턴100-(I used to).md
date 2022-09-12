@@ -10,13 +10,12 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | I'm glad (that) you came.
-| | I'm glad (that) you like it.
-| | I'm glad (that) you're here.
-| | I'm glad (that) you're back.
-| | I'm glad (that) you're okay.
+| | I used to be like you.<br /><sub>예전에 너랑 비슷했어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I used to)1.aac" #play-pause-button .fa .fa-play} |
+| | I used to be fat.<br /><sub>예전에 뚱뚱했었어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I used to)2.aac" #play-pause-button .fa .fa-play} |
+| | I used to work there.<br /><sub>에전에 거기서 일했어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I used to)3.aac" #play-pause-button .fa .fa-play} |
+| | I used to be happy.<br /><sub>예전엔 행복했었는데.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I used to)4.aac" #play-pause-button .fa .fa-play} |
+| | I used to love chicken.<br /><sub>예전에 치킨을 좋아했었어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I used to)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
-| | <br/><sub></sub>
 
 {% capture c %}
   [![](/public/icon/sorting-order-button.png){: width="20" height="20"}](#){: #allListen .btn .btn--inverse}

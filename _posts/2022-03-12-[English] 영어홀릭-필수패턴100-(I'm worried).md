@@ -10,13 +10,12 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | I'm glad (that) you came.
-| | I'm glad (that) you like it.
-| | I'm glad (that) you're here.
-| | I'm glad (that) you're back.
-| | I'm glad (that) you're okay.
+| | I'm worried about you.<br /><sub>네가 걱정이 돼.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm worried)1.aac" #play-pause-button .fa .fa-play} |
+| | I'm worried about my friend.<br /><sub>내 친구가 걱정돼.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm worried)2.aac" #play-pause-button .fa .fa-play} |
+| | I'm worried about something.<br /><sub>고민이 좀 있어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm worried)3.aac" #play-pause-button .fa .fa-play} |
+| | I'm worried about the future.<br /><sub>미래가 걱정돼.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm worried)4.aac" #play-pause-button .fa .fa-play} |
+| | I'm worried about everything.<br /><sub>모든게 걱정이야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm worried)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
-| | <br/><sub></sub>
 
 {% capture c %}
   [![](/public/icon/sorting-order-button.png){: width="20" height="20"}](#){: #allListen .btn .btn--inverse}
