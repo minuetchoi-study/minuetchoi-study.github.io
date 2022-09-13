@@ -11,10 +11,10 @@ category: english
 
 | --- | --- | --- |
 | | I'm going to go there.<br /><sub>나 거기에 갈거야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm going to)1.aac" #play-pause-button .fa .fa-play} |
-| |  I'm going to tell you.<br /><sub>너한테 말할거야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm going to)2.aac" #play-pause-button .fa .fa-play} |
-| |  I'm going to head back home.<br /><sub>집에 돌아갈거야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm going to)3.aac" #play-pause-button .fa .fa-play} |
-| |  I'm going to work out every day.<br /><sub>나는 매일 운동할거야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm going to)4.aac" #play-pause-button .fa .fa-play} |
-| |  I'm going to eat out tonight.<br /><sub>오늘 저녁에 외식할거야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm going to)5.aac" #play-pause-button .fa .fa-play} |
+| | I'm going to tell you.<br /><sub>너한테 말할거야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm going to)2.aac" #play-pause-button .fa .fa-play} |
+| | I'm going to head back home.<br /><sub>집에 돌아갈거야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm going to)3.aac" #play-pause-button .fa .fa-play} |
+| | I'm going to work out every day.<br /><sub>나는 매일 운동할거야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm going to)4.aac" #play-pause-button .fa .fa-play} |
+| | I'm going to eat out tonight.<br /><sub>오늘 저녁에 외식할거야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm going to)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}
