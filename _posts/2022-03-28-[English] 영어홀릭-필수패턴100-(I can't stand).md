@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | I can't stand it.<br /><sub>못 참겠어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I can't stand)1.aac" #play-pause-button .fa .fa-play} |
+| | I can't stand it anymore.<br /><sub>더 이상 못 참겠어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I can't stand)2.aac" #play-pause-button .fa .fa-play} |
+| | I can't stand the hot weather.<br /><sub>더운 날씨를 견딜수 없어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I can't stand)3.aac" #play-pause-button .fa .fa-play} |
+| | I can't stand you anymore.<br /><sub>더이상 널 못봐주겠어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I can't stand)4.aac" #play-pause-button .fa .fa-play} |
+| | I can't stand the mess.<br /><sub>더러워서 견딜수가 없어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I can't stand)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}
