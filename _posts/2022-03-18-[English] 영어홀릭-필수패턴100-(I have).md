@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | I have a date.<br /><sub>나 데이트 있어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I have)1.aac" #play-pause-button .fa .fa-play} |
+| | I have some good news.<br /><sub>좋은 소식이 있어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I have)2.aac" #play-pause-button .fa .fa-play} |
+| | I have some plans.<br /><sub>나 계획이 있어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I have)3.aac" #play-pause-button .fa .fa-play} |
+| | I have a good idea.<br /><sub>좋은 생각이 있어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I have)4.aac" #play-pause-button .fa .fa-play} |
+| | I have a headache.<br /><sub>나 머리가 아파.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I have)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}

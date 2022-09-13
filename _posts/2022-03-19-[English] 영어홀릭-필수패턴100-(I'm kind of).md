@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | I'm kind of tired.<br /><sub>나 좀 피곤해.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm kind of)1.aac" #play-pause-button .fa .fa-play} |
+| | I'm kind of upset.<br /><sub>나 좀 속상해.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm kind of)2.aac" #play-pause-button .fa .fa-play} |
+| | 나 좀 떨려.<br /><sub>I'm kind of nervous.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm kind of)3.aac" #play-pause-button .fa .fa-play} |
+| | I'm kind of crazy.<br /><sub>정신이 좀 나갔지.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm kind of)4.aac" #play-pause-button .fa .fa-play} |
+| | I'm kind of stressed out.<br /><sub>스트레스 좀 받았지.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm kind of)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}

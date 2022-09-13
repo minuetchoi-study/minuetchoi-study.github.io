@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | Are you ready?<br /><sub>준비됐어?</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Are you ready)1.aac" #play-pause-button .fa .fa-play} |
+| | Are you ready to go?<br /><sub>갈 준비됐어?</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Are you ready)2.aac" #play-pause-button .fa .fa-play} |
+| | Are you ready to order?<br /><sub>주문하시겠어요?</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Are you ready)3.aac" #play-pause-button .fa .fa-play} |
+| | Are you ready to start?<br /><sub>시작할 준비됐어?</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Are you ready)4.aac" #play-pause-button .fa .fa-play} |
+| | Are you ready to start work?<br /><sub>일할 준비됐어?</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Are you ready)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}
