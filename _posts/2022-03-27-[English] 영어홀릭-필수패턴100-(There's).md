@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | There's something wrong.<br /><sub>뭔가 잘못됐어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(There's)1.aac" #play-pause-button .fa .fa-play} |
+| | There's a problem.<br /><sub>문제가 생겼어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(There's)2.aac" #play-pause-button .fa .fa-play} |
+| | There's a traffic jam.<br /><sub>차가 막혀.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(There's)3.aac" #play-pause-button .fa .fa-play} |
+| | There's a strong wind.<br /><sub>바람이 세게 불어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(There's)4.aac" #play-pause-button .fa .fa-play} |
+| | There's a reason for everything.<br /><sub>모든 일에는 이유가 있어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(There's)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}
