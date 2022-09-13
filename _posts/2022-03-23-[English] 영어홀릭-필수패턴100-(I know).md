@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | I know you love me.<br /><sub>나를 사랑하는거 알아.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I know)1.aac" #play-pause-button .fa .fa-play} |
+| | I know that.<br /><sub>나 그거 알아.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I know)2.aac" #play-pause-button .fa .fa-play} |
+| | I know how to make.<br /><sub>어떻게 만드는지 알아.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I know)3.aac" #play-pause-button .fa .fa-play} |
+| | I know how you feel.<br /><sub>기분이 어떤지 알아.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I know)4.aac" #play-pause-button .fa .fa-play} |
+| | I know what you did.<br /><sub>무슨 짓을 했는지 알아.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I know)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}

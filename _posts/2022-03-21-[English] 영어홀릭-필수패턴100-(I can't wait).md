@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | I can't wait.<br /><sub>기대돼.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I can't wait)1.aac" #play-pause-button .fa .fa-play} |
+| | I can't wait to raed it.<br /><sub>빨리 읽고 싶어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I can't wait)2.aac" #play-pause-button .fa .fa-play} |
+| | I can't wait to tell him.<br /><sub>빨리 그에게 말해주고 싶어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I can't wait)3.aac" #play-pause-button .fa .fa-play} |
+| | I can't wait to wear it.<br /><sub>빨리 입어보고 싶어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I can't wait)4.aac" #play-pause-button .fa .fa-play} |
+| | I can't wait to see it.<br /><sub>빨리 보고 싶어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I can't wait)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}

@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | This is totally awesome.<br /><sub>이거 완전 최고야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(This is totally)1.aac" #play-pause-button .fa .fa-play} |
+| | This is totally find.<br /><sub>이거 완전 좋아.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(This is totally)2.aac" #play-pause-button .fa .fa-play} |
+| | This is totally unexpected.<br /><sub>이거 완전 생각지도 못한거야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(This is totally)3.aac" #play-pause-button .fa .fa-play} |
+| | This is totally stupid.<br /><sub>이거 완전 바보 같아.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(This is totally)4.aac" #play-pause-button .fa .fa-play} |
+| | This is totally different.<br /><sub>이거 완전 달라.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(This is totally)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}

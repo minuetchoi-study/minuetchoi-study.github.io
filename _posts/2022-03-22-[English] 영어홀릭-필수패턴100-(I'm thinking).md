@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | I'm thinking about buying my car.<br /><sub>차를 살까 생각중이야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm thinking)1.aac" #play-pause-button .fa .fa-play} |
+| | I'm thinking about going to the sea.<br /><sub>바다에 갈까 생각중이야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm thinking)2.aac" #play-pause-button .fa .fa-play} |
+| | I'm thinking about getting some help.<br /><sub>도움을 좀 받을까 생각중이야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm thinking)3.aac" #play-pause-button .fa .fa-play} |
+| | I'm thinking about you.<br /><sub>너에 대해서 생각중이야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm thinking)4.aac" #play-pause-button .fa .fa-play} |
+| | I'm thinking about what you said.<br /><sub>네가 한말에 대해 생각중이야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm thinking)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}
