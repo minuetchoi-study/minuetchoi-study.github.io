@@ -6,15 +6,15 @@ category: english
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/영어홀릭-필수패턴100-(This is totally).json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/영어홀릭-필수패턴100-(I told you).json"></video>
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | I told you to wait.<br /><sub>기다리라고 말했잖아.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I told you)1.aac" #play-pause-button .fa .fa-play} |
+| | i told you earlier.<br /><sub>아까 말했잖아.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I told you)2.aac" #play-pause-button .fa .fa-play} |
+| | I told you about it.<br /><sub>그거 내가 말했잖아.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I told you)3.aac" #play-pause-button .fa .fa-play} |
+| | I told you we'd make it.<br /><sub>우리가 해낼거라고 했잖아.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I told you)4.aac" #play-pause-button .fa .fa-play} |
+| | I told you to stop it.<br /><sub>그만하라고 말했지.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I told you)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}
