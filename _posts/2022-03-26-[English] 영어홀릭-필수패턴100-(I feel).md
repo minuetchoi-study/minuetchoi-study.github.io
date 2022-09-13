@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | I feel awful.<br /><sub>기분이 엉망이야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I feel)1.aac" #play-pause-button .fa .fa-play} |
+| | I feel so small.<br /><sub>무척 주눅이 드네.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I feel)2.aac" #play-pause-button .fa .fa-play} |
+| | I feel so tired.<br /><sub>너무 피곤해.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I feel)3.aac" #play-pause-button .fa .fa-play} |
+| | I feel awesome.<br /><sub>기분이 최고야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I feel)4.aac" #play-pause-button .fa .fa-play} |
+| | I feel so comfortable.<br /><sub>아주 편안해.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I feel)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}
