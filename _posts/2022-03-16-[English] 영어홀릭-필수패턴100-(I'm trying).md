@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | I'm trying to lose weight.<br /><sub>살 빼려고 노력중이야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm trying)1.aac" #play-pause-button .fa .fa-play} |
+| | I'm trying to learn.<br /><sub>배우려고 노력중이야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm trying)2.aac" #play-pause-button .fa .fa-play} |
+| | I'm trying to improve my English.<br /><sub>영어실력을 늘리려고 노력중이야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm trying)3.aac" #play-pause-button .fa .fa-play} |
+| | I'm trying to my best.<br /><sub>최선을 다하는 중이야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm trying)4.aac" #play-pause-button .fa .fa-play} |
+| | I'm trying to make you understand.<br /><sub>널 이해시키려고 노력중이야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm trying)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}

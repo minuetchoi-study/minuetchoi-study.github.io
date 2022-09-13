@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | I'm good at that.<br /><sub>나 그거 잘해요.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-((I'm good at)1.aac" #play-pause-button .fa .fa-play} |
+| | I'm good at math.<br /><sub>나 수학 잘해요.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-((I'm good at)2.aac" #play-pause-button .fa .fa-play} |
+| | I'm good at everything.<br /><sub>나 뭐든 잘해요.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-((I'm good at)3.aac" #play-pause-button .fa .fa-play} |
+| | I'm good at one thing.<br /><sub>한가지 잘하는 것이 있어요.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-((I'm good at)4.aac" #play-pause-button .fa .fa-play} |
+| | I'm good at playing games.<br /><sub>게임을 잘해요.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-((I'm good at)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}
