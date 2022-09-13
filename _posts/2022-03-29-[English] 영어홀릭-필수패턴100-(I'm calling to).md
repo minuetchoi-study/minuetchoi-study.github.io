@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | I'm calling to ask you.<br /><sub>물어보려고 전화했어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm calling to)1.aac" #play-pause-button .fa .fa-play} |
+| | I'm calling to say thank you.<br /><sub>고맙다는 말하려고 전화했어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm calling to)2.aac" #play-pause-button .fa .fa-play} |
+| | I'm calling to let you know.<br /><sub>알려주려고 전화했어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm calling to)3.aac" #play-pause-button .fa .fa-play} |
+| | I'm calling to say goodbye.<br /><sub>작별인사 하려고 전화했어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm calling to)4.aac" #play-pause-button .fa .fa-play} |
+| | I'm calling to get more information.<br /><sub>더 많은 정보를 알려고 전화했어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm calling to)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}
