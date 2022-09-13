@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | I'm not good at this.<br /><sub>나 이거 잘 못해.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm not good at)1.aac" #play-pause-button .fa .fa-play} |
+| | I'm not good at drawing.<br /><sub>그리는 걸 잘 못해.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm not good at)2.aac" #play-pause-button .fa .fa-play} |
+| | I'm not good at telling people.<br /><sub>사람들에게 말을 잘 못해.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm not good at)3.aac" #play-pause-button .fa .fa-play} |
+| | I'm not good at being creative.<br /><sub>창의력이 부족해.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm not good at)4.aac" #play-pause-button .fa .fa-play} |
+| | I'm not good at asking for anything.<br /><sub>부탁을 잘 못해.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm not good at)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}
