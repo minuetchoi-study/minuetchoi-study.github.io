@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | Do you know who I am?<br /><sub>내가 누군지 알아?</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Do you know)1.aac" #play-pause-button .fa .fa-play} |
+| | Do you know what I mean?<br /><sub>무슨 말인지 알겠어?</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Do you know)2.aac" #play-pause-button .fa .fa-play} |
+| | Do you know what it feels like?<br /><sub>어떤 느낌인지 알아?</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Do you know)3.aac" #play-pause-button .fa .fa-play} |
+| | Do you know how hard that is?<br /><sub>그게 얼마나 힘든지 알아?</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Do you know)4.aac" #play-pause-button .fa .fa-play} |
+| | Do you know how expensive that was?<br /><sub>그거 얼마나 비쌋는지 알아?</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Do you know)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}
