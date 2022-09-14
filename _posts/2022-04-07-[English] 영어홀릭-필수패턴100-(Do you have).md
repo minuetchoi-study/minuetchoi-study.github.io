@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | Do you have time?<br /><sub>시간 있어?</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Do you have)1.aac" #play-pause-button .fa .fa-play} |
+| | Do you have any plans?<br /><sub>계획 있어?</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Do you have)2.aac" #play-pause-button .fa .fa-play} |
+| | Do you have a dog?<br /><sub>강아지 았어?</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Do you have)3.aac" #play-pause-button .fa .fa-play} |
+| | Do you have a name?<br /><sub>이름이 뭐야?</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Do you have)4.aac" #play-pause-button .fa .fa-play} |
+| | Do you have kids?<br /><sub>아이 있어요?</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Do you have)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}
