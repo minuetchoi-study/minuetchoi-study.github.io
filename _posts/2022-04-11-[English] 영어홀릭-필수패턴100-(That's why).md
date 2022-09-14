@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | That's why I said no.<br /><sub>그래서 아니라고 했던거야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(That's why)1.aac" #play-pause-button .fa .fa-play} |
+| | That's why I was late.<br /><sub>그래서 늦었던 거야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(That's why)2.aac" #play-pause-button .fa .fa-play} |
+| | That's why I love you.<br /><sub>그래서 널 사랑하는 거야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(That's why)3.aac" #play-pause-button .fa .fa-play} |
+| | That's why I need you.<br /><sub>그래서 네가 필요한 거야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(That's why)4.aac" #play-pause-button .fa .fa-play} |
+| | That's why I'm here.<br /><sub>그래서 여기 있는거야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(That's why)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}
