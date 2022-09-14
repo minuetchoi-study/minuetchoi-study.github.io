@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | You look good.<br /><sub>컨디션 좋아보여.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(You look)1.aac" #play-pause-button .fa .fa-play} |
+| | You look tired.<br /><sub>피곤해 보여.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(You look)2.aac" #play-pause-button .fa .fa-play} |
+| | You look serious.<br /><sub>심각해 보여.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(You look)3.aac" #play-pause-button .fa .fa-play} |
+| | You look nervous.<br /><sub>긴장돼 보여.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(You look)4.aac" #play-pause-button .fa .fa-play} |
+| | You look gorgeous.<br /><sub>멋져 보여.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(You look)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}
