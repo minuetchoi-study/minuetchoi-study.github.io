@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | Is it okay if we talk?<br /><sub>애기할 수 있을까?</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Is is okay if)1.aac" #play-pause-button .fa .fa-play} |
+| | Is it okay if I come over?<br /><sub>놀러가도 될까?</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Is is okay if)2.aac" #play-pause-button .fa .fa-play} |
+| | Is it okay if I sit here?<br /><sub>여기 앉아도 될까?</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Is is okay if)3.aac" #play-pause-button .fa .fa-play} |
+| | Is it okay if I have one?<br /><sub>하나 가져도 될까?</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Is is okay if)4.aac" #play-pause-button .fa .fa-play} |
+| | Is is okay if I skip out on dinner?<br /><sub>저녁 안먹어도 될까?</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Is is okay if)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}

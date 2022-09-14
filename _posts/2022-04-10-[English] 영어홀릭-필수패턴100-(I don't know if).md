@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | I don't know if I like him.<br /><sub>걔를 좋아하는지 몰르겠어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I don't know if)1.aac" #play-pause-button .fa .fa-play} |
+| | I don't know if I can do this.<br /><sub>할 수 있을지 모르겠어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I don't know if)2.aac" #play-pause-button .fa .fa-play} |
+| | I don't know if she told you that.<br /><sub>걔가 너한테 얘기했는지 모르겠어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I don't know if)3.aac" #play-pause-button .fa .fa-play} |
+| | I don't know if I like it.<br /><sub>내가 좋아하는지 모르겠어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I don't know if)4.aac" #play-pause-button .fa .fa-play} |
+| | I don't know if I can come back.<br /><sub>돌아올 수 있을지 모르겠어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I don't know if)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 {% capture c %}
   [![](/public/icon/sorting-order-button.png){: width="20" height="20"}](#){: #allListen .btn .btn--inverse}
