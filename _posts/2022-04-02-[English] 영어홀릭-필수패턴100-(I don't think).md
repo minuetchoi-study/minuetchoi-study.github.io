@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | I don't think so.<br /><sub>난 그렇게 생각하지 않아.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I don't think)1.aac" #play-pause-button .fa .fa-play} |
+| | I don't think this is right.<br /><sub>이거 옮지 않은것 같아.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I don't think)2.aac" #play-pause-button .fa .fa-play} |
+| | I don't think that's necessary.<br /><sub>그건 필요 없을 것 같아.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I don't think)3.aac" #play-pause-button .fa .fa-play} |
+| | I don't think it's expensive.<br /><sub>비싼 것 같지는 않아.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I don't think)4.aac" #play-pause-button .fa .fa-play} |
+| | I don't think we can wait.<br /><sub>우린 기다릴 수 없을 것 같아.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I don't think)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}

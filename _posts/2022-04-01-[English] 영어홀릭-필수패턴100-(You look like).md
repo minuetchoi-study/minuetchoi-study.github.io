@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | You look like a teenager.<br /><sub>십대처럼 보여.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(You look like)1.aac" #play-pause-button .fa .fa-play} |
+| | You look like your brothers.<br /><sub>너의 형제들과 닮았어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(You look like)2.aac" #play-pause-button .fa .fa-play} |
+| | You look like you need it.<br /><sub>그게 필요해 보여.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(You look like)3.aac" #play-pause-button .fa .fa-play} |
+| | You look like you have something.<br /><sub>뭔가 있어 보이는데.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(You look like)4.aac" #play-pause-button .fa .fa-play} |
+| | You look like in person.<br /><sub>실물과 닮았어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(You look like)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}
