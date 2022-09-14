@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | Feel free to call me.<br /><sub>편하게 전화해.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Feel free to)1.aac" #play-pause-button .fa .fa-play} |
+| | Feel free to look around.<br /><sub>편하게 둘러봐.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Feel free to)2.aac" #play-pause-button .fa .fa-play} |
+| | Feel free to take pictures.<br /><sub>편하게 사진 찍어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Feel free to)3.aac" #play-pause-button .fa .fa-play} |
+| | Feel free to help yourself.<br /><sub>편하게 먹어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Feel free to)4.aac" #play-pause-button .fa .fa-play} |
+| | Feel free to stop by anytime.<br /><sub>언제든지 편하게 들러.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Feel free to)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}
