@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | Don't forget to tell me.<br /><sub>나한테 얘기하는거 잊지마.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Don't forget to)1.aac" #play-pause-button .fa .fa-play} |
+| | Don't forget to pay attention.<br /><sub>집중하는거 잊지마.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Don't forget to)2.aac" #play-pause-button .fa .fa-play} |
+| | Don't forget to check it.<br /><sub>확인하는거 잊지마.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Don't forget to)3.aac" #play-pause-button .fa .fa-play} |
+| | Don't forget to put on your seatbelt.<br /><sub>안전벨트 매는거 잊지마.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Don't forget to)4.aac" #play-pause-button .fa .fa-play} |
+| | Don't forget to call your mom.<br /><sub>엄마한테 전화하는거 잊지마.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Don't forget to)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}
