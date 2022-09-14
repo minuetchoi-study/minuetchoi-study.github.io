@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | It's not that easy.<br /><sub>그렇게 쉬운건 아니야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(It's not that)1.aac" #play-pause-button .fa .fa-play} |
+| | It's not that bad.<br /><sub>그렇게 나쁘지는 않아.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(It's not that)2.aac" #play-pause-button .fa .fa-play} |
+| | It's not that great.<br /><sub>그렇게 대단하지는 않아.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(It's not that)3.aac" #play-pause-button .fa .fa-play} |
+| | It's not that hard.<br /><sub>그렇게 어렵지는 않아.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(It's not that)4.aac" #play-pause-button .fa .fa-play} |
+| | It's not that simple.<br /><sub>그렇게 단순하지는 않아.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(It's not that)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}
