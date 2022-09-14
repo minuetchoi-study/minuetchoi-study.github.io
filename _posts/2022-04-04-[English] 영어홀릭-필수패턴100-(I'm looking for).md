@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | I'm looking for something.<br /><sub>뭘 좀 찾고 있어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm looking for)1.aac" #play-pause-button .fa .fa-play} |
+| | I'm looking for this.<br /><sub>이걸 찾고 있어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm looking for)2.aac" #play-pause-button .fa .fa-play} |
+| | I'm looking for my keys.<br /><sub>열쇠를 찾고 있어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm looking for)3.aac" #play-pause-button .fa .fa-play} |
+| | I'm looking for a job.<br /><sub>일자리를 찾고 있어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm looking for)4.aac" #play-pause-button .fa .fa-play} |
+| | I'm looking for tickets.<br /><sub>티켓을 찾고 있어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'm looking for)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}
