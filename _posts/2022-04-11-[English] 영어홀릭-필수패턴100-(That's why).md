@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[영어홀릭]-필수패턴100-(That's why)v"
+title: "[영어홀릭]-필수패턴100-(That's why)"
 date: 2022-04-11 10:00:00 +0900
 category: english
 ---
