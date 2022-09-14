@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | I can't think of the word.<br /><sub>그 단어가 생각이 안나.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I can't think of)1.aac" #play-pause-button .fa .fa-play} |
+| | I can't think of anything.<br /><sub>아무 생각이 안나.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I can't think of)2.aac" #play-pause-button .fa .fa-play} |
+| | I can't think of his name.<br /><sub>걔 이름이 생각이 안나.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I can't think of)3.aac" #play-pause-button .fa .fa-play} |
+| | I can't think of an answer.<br /><sub>답이 떠오르지 않아.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I can't think of)4.aac" #play-pause-button .fa .fa-play} |
+| | i can't think of any good reason.<br /><sub>그럴듯한 이유가 생각이 안나.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I can't think of)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}
