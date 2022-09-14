@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[영어홀릭]-필수패턴100-(I'm kind of)"
-date: 2022-03-19 10:00:00 +0900
+date: 2022-08-19 10:00:00 +0900
 category: english
 ---
 
