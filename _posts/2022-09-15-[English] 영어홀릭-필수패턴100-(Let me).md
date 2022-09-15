@@ -10,11 +10,11 @@ category: english
 </div>
 
 | --- | --- | --- |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)1.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)2.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)3.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)4.aac" #play-pause-button .fa .fa-play} |
-| | .<br /><sub>.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I think)5.aac" #play-pause-button .fa .fa-play} |
+| | Let me introduce myself.<br /><sub>내 소개를 할게.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Let me)1.aac" #play-pause-button .fa .fa-play} |
+| | Let me help you.<br /><sub>도와줄게.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Let me)2.aac" #play-pause-button .fa .fa-play} |
+| | Let me find out.<br /><sub>알아볼게.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Let me)3.aac" #play-pause-button .fa .fa-play} |
+| | Let me check on it.<br /><sub>확인해볼게.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Let me)4.aac" #play-pause-button .fa .fa-play} |
+| | Let me take you there.<br /><sub>데려다 줄게.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Let me)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}
