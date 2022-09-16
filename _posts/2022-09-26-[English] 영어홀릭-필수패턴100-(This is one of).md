@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "[영어홀릭]-필수패턴100-(There's nothing)"
-date: 2022-09-24 10:00:00 +0900
+title: "[영어홀릭]-필수패턴100-(This is one of)"
+date: 2022-09-26 10:00:00 +0900
 category: english
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/영어홀릭-필수패턴100-(There's nothing).json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/영어홀릭-필수패턴100-(This is one of).json"></video>
 </div>
 
 | --- | --- | --- |
-| | There's nothing to worry about.<br /><sub>걱정할 거 하나도 없어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(There's nothing)1.aac" #play-pause-button .fa .fa-play} |
-| | There's nothing to explain.<br /><sub>설명할게 아무것도 없어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(There's nothing)2.aac" #play-pause-button .fa .fa-play} |
-| | There's nothing to lose.<br /><sub>잃을게 아무것도 없어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(There's nothing)3.aac" #play-pause-button .fa .fa-play} |
-| | There's nothing left.<br /><sub>남은게 하나도 없어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(There's nothing)4.aac" #play-pause-button .fa .fa-play} |
-| | There's nothing I can do.<br /><sub>할 수 있는게 아무것도 없어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(There's nothing)5.aac" #play-pause-button .fa .fa-play} |
+| | This is one of my friend.<br /><sub>친구중 한 명이야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(This is one of)1.aac" #play-pause-button .fa .fa-play} |
+| | This is one of my favorties.<br /><sub>좋아하는것 중에 하나야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(This is one of)2.aac" #play-pause-button .fa .fa-play} |
+| | This is one of many.<br /><sub>많은 것중에 하나야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(This is one of)3.aac" #play-pause-button .fa .fa-play} |
+| | This is one of my dogs.<br /><sub>키우는 강아지 중에 하나야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(This is one of)4.aac" #play-pause-button .fa .fa-play} |
+| | This is one of the reasons.<br /><sub>이유들 중에 하나야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(This is one of)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}
