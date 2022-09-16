@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "[영어홀릭]-필수패턴100-(That's)"
-date: 2022-09-28 10:00:00 +0900
+title: "[영어홀릭]-필수패턴100-(Let's say)"
+date: 2022-09-31 10:00:00 +0900
 category: english
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/영어홀릭-필수패턴100-(That's).json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/영어홀릭-필수패턴100-(Let's say).json"></video>
 </div>
 
 | --- | --- | --- |
-| | That's amazing.<br /><sub>그거 놀랍네.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(That's)1.aac" #play-pause-button .fa .fa-play} |
-| | That's my favorite.<br /><sub>내가 제일 좋아하는 거야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(That's)2.aac" #play-pause-button .fa .fa-play} |
-| | That's a good choice.<br /><sub>잘 선택했어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(That's)3.aac" #play-pause-button .fa .fa-play} |
-| | That's right.<br /><sub>맞아.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(That's)4.aac" #play-pause-button .fa .fa-play} |
-| | That's crazy.<br /><sub>미친짓이야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(That's)5.aac" #play-pause-button .fa .fa-play} |
+| | Let's say you're doctor.<br /><sub>네가 의사라고 치자.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Let's say)1.aac" #play-pause-button .fa .fa-play} |
+| | Let's say you're rich.<br /><sub>네가 부자라고 치자.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Let's say)2.aac" #play-pause-button .fa .fa-play} |
+| | Let's say you're super angry.<br /><sub>네가 엄청 화가 났다고 치자.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Let's say)3.aac" #play-pause-button .fa .fa-play} |
+| | Let's say you meet someone.<br /><sub>네가 누구를 만난다고 치자.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Let's say)4.aac" #play-pause-button .fa .fa-play} |
+| | Let's say you went to Harvard.<br /><sub>네가 하버드에 갔다고 치자.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(Let's say)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}

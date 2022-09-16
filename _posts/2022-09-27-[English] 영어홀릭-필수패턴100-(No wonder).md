@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[영어홀릭]-필수패턴100-(No wonder)"
-date: 2022-09-26 10:00:00 +0900
+date: 2022-09-27 10:00:00 +0900
 category: english
 ---
 

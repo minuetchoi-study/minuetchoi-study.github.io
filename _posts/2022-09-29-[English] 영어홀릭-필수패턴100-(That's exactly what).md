@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "[영어홀릭]-필수패턴100-(That's)"
-date: 2022-09-28 10:00:00 +0900
+title: "[영어홀릭]-필수패턴100-(That's exactly what)"
+date: 2022-09-29 10:00:00 +0900
 category: english
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/영어홀릭-필수패턴100-(That's).json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/영어홀릭-필수패턴100-(That's exactly what).json"></video>
 </div>
 
 | --- | --- | --- |
-| | That's amazing.<br /><sub>그거 놀랍네.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(That's)1.aac" #play-pause-button .fa .fa-play} |
-| | That's my favorite.<br /><sub>내가 제일 좋아하는 거야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(That's)2.aac" #play-pause-button .fa .fa-play} |
-| | That's a good choice.<br /><sub>잘 선택했어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(That's)3.aac" #play-pause-button .fa .fa-play} |
-| | That's right.<br /><sub>맞아.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(That's)4.aac" #play-pause-button .fa .fa-play} |
-| | That's crazy.<br /><sub>미친짓이야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(That's)5.aac" #play-pause-button .fa .fa-play} |
+| | That's exactly what I'm saying.<br /><sub>내 말이 바로 그거야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(That's exactly what)1.aac" #play-pause-button .fa .fa-play} |
+| | That's exactly what I want to do.<br /><sub>바로 내가 하고 싶은거야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(That's exactly what)2.aac" #play-pause-button .fa .fa-play} |
+| | That's exactly I was worried.<br /><sub>바로 내가 걱정했던 거야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(That's exactly what)3.aac" #play-pause-button .fa .fa-play} |
+| | That's exactly what I was looking.<br /><sub>바로 내가 찾고 있는거야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(That's exactly what)4.aac" #play-pause-button .fa .fa-play} |
+| | That's exactly what we did.<br /><sub>그게 바로 우리가 했던 거야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(That's exactly what)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}

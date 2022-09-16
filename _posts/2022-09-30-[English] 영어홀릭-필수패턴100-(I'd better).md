@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "[영어홀릭]-필수패턴100-(That's)"
-date: 2022-09-28 10:00:00 +0900
+title: "[영어홀릭]-필수패턴100-(I'd better)"
+date: 2022-09-30 10:00:00 +0900
 category: english
 ---
 
 <div class="video-container">
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/영어홀릭-필수패턴100-(That's).json"></video>
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/영어홀릭-필수패턴100-(I'd better).json"></video>
 </div>
 
 | --- | --- | --- |
-| | That's amazing.<br /><sub>그거 놀랍네.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(That's)1.aac" #play-pause-button .fa .fa-play} |
-| | That's my favorite.<br /><sub>내가 제일 좋아하는 거야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(That's)2.aac" #play-pause-button .fa .fa-play} |
-| | That's a good choice.<br /><sub>잘 선택했어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(That's)3.aac" #play-pause-button .fa .fa-play} |
-| | That's right.<br /><sub>맞아.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(That's)4.aac" #play-pause-button .fa .fa-play} |
-| | That's crazy.<br /><sub>미친짓이야.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(That's)5.aac" #play-pause-button .fa .fa-play} |
+| | I'd better get going.<br /><sub>가는게 좋겠어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'd better)1.aac" #play-pause-button .fa .fa-play} |
+| | I'd better make sure.<br /><sub>확실히 해두는게 좋겠어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'd better)2.aac" #play-pause-button .fa .fa-play} |
+| | I'd better call them.<br /><sub>그들에게 전화하는게 좋겠어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'd better)3.aac" #play-pause-button .fa .fa-play} |
+| | I'd better start doing.<br /><sub>시작하는게 좋겠어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'd better)4.aac" #play-pause-button .fa .fa-play} |
+| | I'd better wrtie a book.<br /><sub>책을 쓰는게 좋겠어.</sub> | [](#){: data-url="/public/media/영어홀릭-필수패턴100-(I'd better)5.aac" #play-pause-button .fa .fa-play} |
 {: #conversation }
 
 {% capture c %}
