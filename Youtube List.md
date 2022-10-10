@@ -15,6 +15,7 @@ permalink: /youtube list/
     - [일간 소울영어](https://www.youtube.com/channel/UCc-zCCulW6jq1lmWjlKCUkw)
     - [Hello Jadoo TV 안녕 자두야](https://www.youtube.com/c/hellojadooya)
     - [ShadowingKorean.com쉐도잉코리안](https://www.youtube.com/c/ShadowingKorean)
+    - [영어똑띠](https://www.youtube.com/channel/UCsV6fgPgSA47vjD_rV0sR1Q)
     - [Ciao English Story](https://www.youtube.com/channel/UCkTPfBGIS5MvUoEn-7NQB0w)
 
 - 베트남어
@@ -33,6 +34,8 @@ permalink: /youtube list/
 ---
 
 - [삼프로TV_경제의신과함께](https://www.youtube.com/c/%EC%82%BC%ED%94%84%EB%A1%9Ctv)
+- [내일은 투자왕 - 김단테](https://www.youtube.com/c/%EB%82%B4%EC%9D%BC%EC%9D%80%ED%88%AC%EC%9E%90%EC%99%95%EA%B9%80%EB%8B%A8%ED%85%8C)
+- [김작가TV](https://www.youtube.com/c/%EA%B9%80%EC%9E%91%EA%B0%80TV)
 - [달란트 투자](https://www.youtube.com/c/%EB%8B%AC%EB%9E%80%ED%8A%B8%ED%88%AC%EC%9E%90)
 - [이찌라](https://www.youtube.com/c/%EC%B1%85%EC%9D%BD%EC%B0%8C%EB%9D%BC)
 - [만화로 보는 맨큐의 경제학](https://www.youtube.com/c/%EB%A7%8C%ED%99%94%EB%A1%9C%EB%B3%B4%EB%8A%94%EB%A7%A8%ED%81%90%EC%9D%98%EA%B2%BD%EC%A0%9C%ED%95%99)
@@ -53,3 +56,10 @@ permalink: /youtube list/
 
 - [Cocomelon](https://www.youtube.com/c/CoComelon)
 - [Hari Won](https://www.youtube.com/c/HariWonofficial)
+
+<br><br>
+
+# IT
+---
+
+- [나도코딩](https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw)
