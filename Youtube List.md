@@ -17,6 +17,7 @@ permalink: /youtube list/
     - [ShadowingKorean.com쉐도잉코리안](https://www.youtube.com/c/ShadowingKorean)
     - [영어똑띠](https://www.youtube.com/channel/UCsV6fgPgSA47vjD_rV0sR1Q)
     - [Ciao English Story](https://www.youtube.com/channel/UCkTPfBGIS5MvUoEn-7NQB0w)
+    - [English with Lucy](https://youtube.com/c/EnglishwithLucy)
 
 - 베트남어
     - [쉬운 베트남어](https://www.youtube.com/c/%EC%89%AC%EC%9A%B4%EB%B2%A0%ED%8A%B8%EB%82%A8%EC%96%B4)
@@ -39,6 +40,7 @@ permalink: /youtube list/
 - [달란트 투자](https://www.youtube.com/c/%EB%8B%AC%EB%9E%80%ED%8A%B8%ED%88%AC%EC%9E%90)
 - [이찌라](https://www.youtube.com/c/%EC%B1%85%EC%9D%BD%EC%B0%8C%EB%9D%BC)
 - [만화로 보는 맨큐의 경제학](https://www.youtube.com/c/%EB%A7%8C%ED%99%94%EB%A1%9C%EB%B3%B4%EB%8A%94%EB%A7%A8%ED%81%90%EC%9D%98%EA%B2%BD%EC%A0%9C%ED%95%99)
+- [한국의약통신](https://youtube.com/channel/UCrLDlzyi9k71Q-TvPrFJoAA)
 
 <br><br>
 
@@ -63,3 +65,11 @@ permalink: /youtube list/
 ---
 
 - [나도코딩](https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw)
+
+<br><br>
+
+# 여행
+---
+
+- [슬기로운 캠핑생활](https://youtube.com/c/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%EC%BA%A0%ED%95%91%EC%83%9D%ED%99%9C)
+- [빵이네](https://youtube.com/c/%EB%B9%B5%EC%9D%B4%EB%84%A4%EC%BA%A0%ED%95%91%EC%97%AC%ED%96%89TV)
