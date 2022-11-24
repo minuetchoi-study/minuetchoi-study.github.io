@@ -50,6 +50,7 @@ permalink: /youtube list/
 - [그것이 알고싶다](https://www.youtube.com/c/sbstruth)
 - [KBS 시사](https://www.youtube.com/channel/UCEb31RoX5RnfYENmnyokN8A)
 - [MBC PD수첩](https://www.youtube.com/c/MBCPD%EC%88%98%EC%B2%A9)
+- [kimwontv김원](https://www.youtube.com/@kimwontvtv)
 
 <br><br>
 
