@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 유튜브 구독
+title: youtube
 permalink: /youtube list/
 ---
 
