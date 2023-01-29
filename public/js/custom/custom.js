@@ -760,7 +760,7 @@ function closeNav() {
 function openMenuNav() {
     console.log(document.getElementById("sidebar").style.width);
     if(document.getElementById("sidebar").style.display == 'none') { 
-        document.getElementById("sidebar").style.display = 'block';
+        document.getElementById("sidebar").style.display = '';
     } else {
         document.getElementById("sidebar").style.display = 'none';
     }
