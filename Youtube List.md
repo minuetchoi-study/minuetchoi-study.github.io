@@ -25,6 +25,8 @@ permalink: /youtube list/
     - [86 STUDIO](https://www.youtube.com/c/86STUDIO){:target="_blank"}
     - [Sadhguru Tiếng Việt](https://www.youtube.com/c/SadhguruTi%E1%BA%BFngVi%E1%BB%87t){:target="_blank"}
     - [らくらくベトナム](https://www.youtube.com/@rakurakuvietnam/videos){:target="_blank"}
+    - [Toro_Pan](https://www.youtube.com/@Toro_Pan){:target="_blank"}
+
 
 - 기타
     - [Kendra's Speaking Practice](https://www.youtube.com/c/KendrasSpeakingPractice){:target="_blank"}
