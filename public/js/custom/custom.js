@@ -11,12 +11,13 @@ $(document).ready(function () {
 
     $('.deeplinks').click(function(e) {
         e.preventDefault();
+        var vId = $(this).find('a').data('v');
         if (isMobile) {
             window.setTimeout(function() {
-                window.location = 'vnd.youtube://' + $(this).find('a').data('v');
+                window.location = 'vnd.youtube://' + vId;
             }, 25);
         } else {
-            window.location = 'https://youtube.com/watch?v=' + $(this).find('a').data('v');
+            window.location = 'https://youtube.com/watch?v=' + vId;
         }
     });
     function killPopup() {
