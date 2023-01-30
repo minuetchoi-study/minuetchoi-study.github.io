@@ -12,7 +12,6 @@ $(document).ready(function () {
     $('.deeplinks').click(function(e) {
         e.preventDefault();
         if (isMobile) {
-            window.location = app;
             window.setTimeout(function() {
                 window.location = 'vnd.youtube://' + $(this).find('a').data('v');
             }, 25);
