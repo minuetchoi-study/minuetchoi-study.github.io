@@ -9,6 +9,36 @@ $(document).ready(function () {
         $('.video-container').css('position', 'sticky');
     }
 
+    $('.deeplinks').click(function(e) {
+        e.preventDefault();
+        if (isMobile) {
+            window.location = app;
+            window.setTimeout(function() {
+                window.location = 'vnd.youtube://' + $(this).find('a').data('v');
+            }, 25);
+        } else {
+            window.location = 'https://youtube.com/watch?v=' + $(this).find('a').data('v');
+        }
+    });
+    function killPopup() {
+        window.removeEventListener('pagehide', killPopup);
+    }
+
+    window.addEventListener('pagehide', killPopup);
+
+
+    $('.spreadlinks').click(function (e) {
+        e.preventDefault();
+        if ($(this).data('v').toString() === '0') {
+            $(this).closest('li').find('ul').hide();
+            $(this).data('v', '1');
+        } else {
+            $(this).closest('li').find('ul').show();
+            $(this).data('v', '0');
+        }
+    });
+    $('.spreadlinks').trigger('click');
+
     // todo strt
     var $todo = $('#todoDiv');
 
