@@ -30,10 +30,10 @@ $(document).ready(function () {
     $('.spreadlinks').click(function (e) {
         e.preventDefault();
         if ($(this).data('v').toString() === '0') {
-            $(this).closest('li').find('ul').hide();
+            $(this).closest('li').find('ul, ol').hide();
             $(this).data('v', '1');
         } else {
-            $(this).closest('li').find('ul').show();
+            $(this).closest('li').find('ul, ol').show();
             $(this).data('v', '0');
         }
     });
