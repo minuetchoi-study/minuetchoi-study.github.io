@@ -78,3 +78,19 @@ category: english
 - Please accelerate your efforts. <sub>노력을 가속화해 주세요.</sub>
 - The car began to accelerate. <sub>차가 가속하기 시작했어요.</sub>
 - We need to accelerate growth. <sub>성장을 가속화해야 해요.</sub>
+
+### (단어)
+
+- Run (뛰다, 조깅하다)
+- Have got (가지다)
+- On Board (동참하다)
+- Work out (운동하다)
+- Don't mind (상관없다, 싫어하지 않다)
+- How much energy (얼마나 많은 에너지)
+- Especially considering (특히 이런점을 고려할 때)
+- Can't tell (말할 수 없다)
+- If it were me (내 경우라면, 나라면)
+- Stay positive (긍정적으로 지내다)
+- Feel like ~ing (~할 것 같은 기분이 들다)
+- Take a nap (잠깐 눈붙이다)
+- For a little while (잠깐 동안)
